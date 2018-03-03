@@ -1,48 +1,48 @@
 Market Prices retrieved from myjson.com with 127 items
-Latest Price: 06:42 PM +0800   03-Mar-2018
+Latest Price: 08:25 PM +0800   03-Mar-2018
 
 
 Analysis for logs
 =================
-Data count: 6393
-Weighted Average Price: 3,064.33
-Weighted Stdev: 509.60
+Data count: 6497
+Weighted Average Price: 3,075.95
+Weighted Stdev: 513.64
 
 Percentiles:
-5% : 2,492.65
-15% : 2,577.71
-50% : 2,984.88
-85% : 3,471.56
-95% : 4,249.17
+5% : 2,493.28
+15% : 2,579.92
+50% : 2,995.75
+85% : 3,565.82
+95% : 4,236.02
 
 Current Price        : 3,790.00
-Potential High Price : 2,984.88
-Potential Profit     : -805.12
+Potential High Price : 2,995.75
+Potential Profit     : -794.25  (-20.96%)
 
 
 
 Analysis for skeletonSword
 ==========================
-Data count: 6395
-Weighted Average Price: 7,390,156.10
-Weighted Stdev: 2,812,364.56
+Data count: 6499
+Weighted Average Price: 7,343,906.49
+Weighted Stdev: 2,813,246.21
 
 Percentiles:
-5% : 4,848,716.33
-15% : 4,992,369.46
-50% : 6,259,051.02
-85% : 10,243,506.13
-95% : 14,048,473.30
+5% : 4,708,818.41
+15% : 4,978,539.12
+50% : 6,243,641.43
+85% : 10,151,569.88
+95% : 14,020,553.82
 
 Current Price        : 4,500,000.00
-Potential High Price : 6,259,051.02
-Potential Profit     : 1,759,051.02
+Potential High Price : 6,243,641.43
+Potential Profit     : 1,743,641.43  (38.75%)
 
 
 
 Analysis for stone
 ==================
-Data count: 5617
+Data count: 5721
 Weighted Average Price: 2.07
 Weighted Stdev: 0.21
 
@@ -51,486 +51,486 @@ Percentiles:
 15% : 2.00
 50% : 2.00
 85% : 2.00
-95% : 2.66
+95% : 2.65
 
 Current Price        : 2.00
 Potential High Price : 2.00
-Potential Profit     : 0.00
+Potential Profit     : 0.00  (0.00%)
 
 
 
 Analysis for stinger
 ====================
-Data count: 5617
-Weighted Average Price: 32,213.91
-Weighted Stdev: 7,137.84
+Data count: 5721
+Weighted Average Price: 32,309.39
+Weighted Stdev: 7,109.93
 
 Percentiles:
-5% : 20,077.76
-15% : 22,757.64
-50% : 34,001.98
-85% : 38,851.31
-95% : 40,162.13
+5% : 20,107.00
+15% : 22,835.60
+50% : 34,169.73
+85% : 38,865.22
+95% : 40,053.76
 
-Current Price        : 35,000.00
-Potential High Price : 34,001.98
-Potential Profit     : -998.02
+Current Price        : 39,865.00
+Potential High Price : 34,169.73
+Potential Profit     : -5,695.27  (-14.29%)
 
 
 
 Analysis for bearFur
 ====================
-Data count: 5613
-Weighted Average Price: 61,828.25
-Weighted Stdev: 36,470.53
+Data count: 5717
+Weighted Average Price: 61,549.24
+Weighted Stdev: 36,195.39
 
 Percentiles:
-5% : 30,305.93
-15% : 34,491.87
-50% : 46,997.71
-85% : 97,987.37
-95% : 147,714.56
+5% : 30,358.70
+15% : 34,591.74
+50% : 46,996.91
+85% : 97,479.70
+95% : 146,921.06
 
-Current Price        : 46,996.00
-Potential High Price : 46,997.71
-Potential Profit     : 1.71
+Current Price        : 46,000.00
+Potential High Price : 46,996.91
+Potential Profit     : 996.91  (2.17%)
 
 
 
 Analysis for batSkin
 ====================
-Data count: 5614
-Weighted Average Price: 6,674.60
-Weighted Stdev: 11,026.91
+Data count: 5718
+Weighted Average Price: 6,605.53
+Weighted Stdev: 10,937.99
 
 Percentiles:
-5% : 2,193.53
-15% : 3,208.95
-50% : 4,063.52
-85% : 4,717.95
-95% : 22,898.08
+5% : 2,202.93
+15% : 3,091.31
+50% : 4,046.39
+85% : 4,700.00
+95% : 22,647.93
 
-Current Price        : 3,267.00
-Potential High Price : 4,063.52
-Potential Profit     : 796.52
+Current Price        : 2,498.00
+Potential High Price : 4,046.39
+Potential Profit     : 1,548.39  (61.99%)
 
 
 
 Analysis for quartz
 ===================
-Data count: 5615
-Weighted Average Price: 58.87
-Weighted Stdev: 11.47
+Data count: 5719
+Weighted Average Price: 58.42
+Weighted Stdev: 11.82
 
 Percentiles:
-5% : 35.76
-15% : 41.16
-50% : 58.88
-85% : 73.13
+5% : 34.60
+15% : 40.76
+50% : 58.83
+85% : 73.11
 95% : 73.71
 
-Current Price        : 34.00
-Potential High Price : 58.88
-Potential Profit     : 24.88
+Current Price        : 35.00
+Potential High Price : 58.83
+Potential Profit     : 23.83  (68.09%)
 
 
 
 Analysis for diamond
 ====================
-Data count: 5613
-Weighted Average Price: 19,245,205.52
-Weighted Stdev: 350,356.09
+Data count: 5717
+Weighted Average Price: 19,246,202.30
+Weighted Stdev: 347,231.96
 
 Percentiles:
-5% : 18,527,503.24
-15% : 18,808,988.29
-50% : 19,378,061.96
-85% : 19,578,740.05
-95% : 19,640,739.16
+5% : 18,529,915.26
+15% : 18,817,070.48
+50% : 19,372,461.60
+85% : 19,576,897.67
+95% : 19,640,253.02
 
 Current Price        : 19,300,000.00
-Potential High Price : 19,378,061.96
-Potential Profit     : 78,061.96
+Potential High Price : 19,372,461.60
+Potential Profit     : 72,461.60  (0.38%)
 
 
 
 Analysis for ruby
 =================
-Data count: 5614
-Weighted Average Price: 8,823,068.81
-Weighted Stdev: 297,657.82
+Data count: 5718
+Weighted Average Price: 8,826,286.86
+Weighted Stdev: 295,884.65
 
 Percentiles:
-5% : 8,161,018.08
-15% : 8,483,281.42
-50% : 8,947,418.04
-85% : 8,999,999.57
-95% : 9,168,462.39
+5% : 8,163,535.76
+15% : 8,492,093.31
+50% : 8,951,219.36
+85% : 8,999,999.68
+95% : 9,162,213.18
 
 Current Price        : 9,000,000.00
-Potential High Price : 8,947,418.04
-Potential Profit     : -52,581.96
+Potential High Price : 8,951,219.36
+Potential Profit     : -48,780.64  (-0.54%)
 
 
 
 Analysis for emerald
 ====================
-Data count: 5616
-Weighted Average Price: 2,618,794.34
-Weighted Stdev: 156,479.01
+Data count: 5720
+Weighted Average Price: 2,620,270.81
+Weighted Stdev: 155,429.10
 
 Percentiles:
-5% : 2,410,380.93
-15% : 2,443,783.12
-50% : 2,606,810.06
-85% : 2,800,362.11
-95% : 2,884,836.54
+5% : 2,410,698.45
+15% : 2,444,728.61
+50% : 2,613,251.71
+85% : 2,799,579.17
+95% : 2,883,848.04
 
 Current Price        : 2,700,000.00
-Potential High Price : 2,606,810.06
-Potential Profit     : -93,189.94
+Potential High Price : 2,613,251.71
+Potential Profit     : -86,748.29  (-3.21%)
 
 
 
 Analysis for sapphire
 =====================
-Data count: 5616
-Weighted Average Price: 181,694.61
-Weighted Stdev: 14,236.06
+Data count: 5720
+Weighted Average Price: 181,845.61
+Weighted Stdev: 14,149.62
 
 Percentiles:
-5% : 163,799.41
-15% : 166,680.38
-50% : 183,960.69
-85% : 191,875.21
-95% : 208,290.28
+5% : 163,977.19
+15% : 166,730.07
+50% : 184,750.84
+85% : 191,673.66
+95% : 208,058.39
 
-Current Price        : 190,000.00
-Potential High Price : 183,960.69
-Potential Profit     : -6,039.31
+Current Price        : 189,999.00
+Potential High Price : 184,750.84
+Potential Profit     : -5,248.16  (-2.76%)
 
 
 
 Analysis for moonstone
 ======================
-Data count: 5612
-Weighted Average Price: 44,339.49
-Weighted Stdev: 18,626.25
+Data count: 5716
+Weighted Average Price: 44,219.39
+Weighted Stdev: 18,478.37
 
 Percentiles:
-5% : 20,330.62
-15% : 31,025.20
-50% : 38,972.93
-85% : 65,558.08
-95% : 88,537.56
+5% : 20,428.06
+15% : 31,196.20
+50% : 38,929.41
+85% : 64,903.09
+95% : 88,319.22
 
-Current Price        : 40,555.00
-Potential High Price : 38,972.93
-Potential Profit     : -1,582.07
+Current Price        : 35,000.00
+Potential High Price : 38,929.41
+Potential Profit     : 3,929.41  (11.23%)
 
 
 
 Analysis for marsRock
 =====================
-Data count: 5612
-Weighted Average Price: 251,600.99
-Weighted Stdev: 79,056.91
+Data count: 5716
+Weighted Average Price: 249,599.89
+Weighted Stdev: 79,704.48
 
 Percentiles:
-5% : 178,544.84
-15% : 187,923.30
-50% : 211,133.12
-85% : 376,712.72
-95% : 402,057.37
+5% : 173,679.53
+15% : 187,284.84
+50% : 210,337.04
+85% : 374,891.35
+95% : 402,003.12
 
-Current Price        : 133,000.00
-Potential High Price : 211,133.12
-Potential Profit     : 78,133.12
+Current Price        : 150,000.00
+Potential High Price : 210,337.04
+Potential Profit     : 60,337.04  (40.22%)
 
 
 
 Analysis for ironBar
 ====================
-Data count: 5617
-Weighted Average Price: 175.81
+Data count: 5721
+Weighted Average Price: 175.54
 Weighted Stdev: 15.17
 
 Percentiles:
-5% : 152.29
-15% : 159.38
-50% : 175.37
-85% : 194.40
-95% : 197.32
+5% : 152.39
+15% : 159.45
+50% : 174.56
+85% : 194.33
+95% : 197.29
 
 Current Price        : 161.00
-Potential High Price : 175.37
-Potential Profit     : 14.37
+Potential High Price : 174.56
+Potential Profit     : 13.56  (8.42%)
 
 
 
 Analysis for bronzeBar
 ======================
-Data count: 5622
-Weighted Average Price: 79.16
-Weighted Stdev: 15.59
+Data count: 5726
+Weighted Average Price: 78.98
+Weighted Stdev: 15.50
 
 Percentiles:
-5% : 51.60
-15% : 56.16
-50% : 86.25
-85% : 93.92
-95% : 97.73
+5% : 51.64
+15% : 56.37
+50% : 85.77
+85% : 93.78
+95% : 97.70
 
-Current Price        : 71.00
-Potential High Price : 86.25
-Potential Profit     : 15.25
+Current Price        : 67.00
+Potential High Price : 85.77
+Potential Profit     : 18.77  (28.01%)
 
 
 
 Analysis for silverBar
 ======================
-Data count: 5640
-Weighted Average Price: 259.80
-Weighted Stdev: 66.08
+Data count: 5737
+Weighted Average Price: 258.70
+Weighted Stdev: 66.05
 
 Percentiles:
-5% : 169.08
+5% : 169.09
 15% : 170.00
-50% : 265.95
-85% : 334.88
-95% : 366.94
+50% : 264.06
+85% : 334.32
+95% : 366.55
 
 Current Price        : 195.00
-Potential High Price : 265.95
-Potential Profit     : 70.95
+Potential High Price : 264.06
+Potential Profit     : 69.06  (35.42%)
 
 
 
 Analysis for promethiumBar
 ==========================
-Data count: 5614
-Weighted Average Price: 495,224.06
-Weighted Stdev: 499,699.31
+Data count: 5718
+Weighted Average Price: 490,715.31
+Weighted Stdev: 496,241.09
 
 Percentiles:
-5% : 202,002.71
-15% : 233,813.52
-50% : 273,461.22
-85% : 948,373.34
-95% : 1,790,460.69
+5% : 202,124.02
+15% : 235,205.33
+50% : 272,596.33
+85% : 929,628.74
+95% : 1,780,281.73
 
-Current Price        : 245,000.00
-Potential High Price : 273,461.22
-Potential Profit     : 28,461.22
+Current Price        : 249,595.00
+Potential High Price : 272,596.33
+Potential Profit     : 23,001.33  (9.22%)
 
 
 
 Analysis for goldBar
 ====================
-Data count: 5623
-Weighted Average Price: 177.89
-Weighted Stdev: 72.05
+Data count: 5727
+Weighted Average Price: 177.28
+Weighted Stdev: 71.53
 
 Percentiles:
-5% : 95.12
-15% : 103.56
-50% : 165.07
-85% : 258.82
-95% : 325.30
+5% : 95.14
+15% : 103.92
+50% : 160.40
+85% : 256.99
+95% : 324.47
 
-Current Price        : 140.00
-Potential High Price : 165.07
-Potential Profit     : 25.07
+Current Price        : 149.00
+Potential High Price : 160.40
+Potential Profit     : 11.40  (7.65%)
 
 
 
 Analysis for runiteBar
 ======================
-Data count: 5613
-Weighted Average Price: 7,920,710.64
-Weighted Stdev: 1,642,746.69
+Data count: 5717
+Weighted Average Price: 8,140,449.33
+Weighted Stdev: 2,292,493.69
 
 Percentiles:
-5% : 6,400,952.01
-15% : 6,910,259.77
-50% : 7,485,679.71
-85% : 8,791,194.04
-95% : 10,277,099.58
+5% : 6,407,830.02
+15% : 6,924,370.48
+50% : 7,500,000.00
+85% : 9,024,112.34
+95% : 10,541,404.95
 
 Current Price        : 20,000,000.00
-Potential High Price : 7,485,679.71
-Potential Profit     : -12,514,320.29
+Potential High Price : 7,500,000.00
+Potential Profit     : -12,500,000.00  (-62.50%)
 
 
 
 Analysis for oakLogs
 ====================
-Data count: 5620
-Weighted Average Price: 6,463.72
-Weighted Stdev: 1,262.10
+Data count: 5724
+Weighted Average Price: 6,500.26
+Weighted Stdev: 1,279.10
 
 Percentiles:
-5% : 4,784.59
-15% : 5,000.00
-50% : 6,145.74
-85% : 7,870.07
-95% : 8,378.11
+5% : 4,785.89
+15% : 5,009.24
+50% : 6,337.36
+85% : 7,963.78
+95% : 8,456.06
 
-Current Price        : 8,500.00
-Potential High Price : 6,145.74
-Potential Profit     : -2,354.26
+Current Price        : 8,450.00
+Potential High Price : 6,337.36
+Potential Profit     : -2,112.64  (-25.00%)
 
 
 
 Analysis for willowLogs
 =======================
-Data count: 5615
-Weighted Average Price: 12,473.82
-Weighted Stdev: 2,345.43
+Data count: 5719
+Weighted Average Price: 12,437.02
+Weighted Stdev: 2,339.68
 
 Percentiles:
-5% : 10,299.82
-15% : 10,900.00
-50% : 11,628.16
-85% : 15,058.00
-95% : 18,354.73
+5% : 10,304.47
+15% : 10,836.73
+50% : 11,596.15
+85% : 14,968.36
+95% : 18,325.68
 
 Current Price        : 10,450.00
-Potential High Price : 11,628.16
-Potential Profit     : 1,178.16
+Potential High Price : 11,596.15
+Potential Profit     : 1,146.15  (10.97%)
 
 
 
 Analysis for mapleLogs
 ======================
-Data count: 5614
-Weighted Average Price: 22,941.16
-Weighted Stdev: 2,199.10
+Data count: 5718
+Weighted Average Price: 22,910.32
+Weighted Stdev: 2,190.85
 
 Percentiles:
 5% : 20,500.00
-15% : 20,795.34
-50% : 22,447.73
-85% : 24,165.43
-95% : 28,307.87
+15% : 20,816.84
+50% : 22,396.92
+85% : 24,162.69
+95% : 28,252.93
 
-Current Price        : 21,498.00
-Potential High Price : 22,447.73
-Potential Profit     : 949.73
+Current Price        : 21,000.00
+Potential High Price : 22,396.92
+Potential Profit     : 1,396.92  (6.65%)
 
 
 
 Analysis for stardustLogs
 =========================
-Data count: 5611
-Weighted Average Price: 106,323.06
-Weighted Stdev: 11,087.06
+Data count: 5715
+Weighted Average Price: 106,189.79
+Weighted Stdev: 11,029.24
 
 Percentiles:
-5% : 98,168.01
+5% : 98,176.74
 15% : 98,999.00
-50% : 99,859.33
-85% : 121,354.08
-95% : 126,776.78
+50% : 99,812.03
+85% : 121,205.88
+95% : 126,731.63
 
-Current Price        : 98,999.00
-Potential High Price : 99,859.33
-Potential Profit     : 860.33
+Current Price        : 99,000.00
+Potential High Price : 99,812.03
+Potential Profit     : 812.03  (0.82%)
 
 
 
 Analysis for strangeLogs
 ========================
-Data count: 5611
-Weighted Average Price: 164,106.59
-Weighted Stdev: 74,058.97
+Data count: 5715
+Weighted Average Price: 164,195.64
+Weighted Stdev: 73,384.94
 
 Percentiles:
-5% : 121,596.80
-15% : 133,219.81
-50% : 140,384.88
-85% : 149,653.35
-95% : 368,691.09
+5% : 121,774.89
+15% : 133,412.44
+50% : 140,517.88
+85% : 169,000.00
+95% : 366,116.41
 
 Current Price        : 169,000.00
-Potential High Price : 140,384.88
-Potential Profit     : -28,615.12
+Potential High Price : 140,517.88
+Potential Profit     : -28,482.12  (-16.85%)
 
 
 
 Analysis for ancientLogs
 ========================
-Data count: 5611
-Weighted Average Price: 392,872.48
-Weighted Stdev: 175,861.76
+Data count: 5715
+Weighted Average Price: 396,783.01
+Weighted Stdev: 176,973.23
 
 Percentiles:
-5% : 275,270.59
-15% : 289,552.19
-50% : 333,011.15
-85% : 423,489.56
-95% : 851,748.75
+5% : 275,398.10
+15% : 289,977.23
+50% : 334,693.86
+85% : 496,258.75
+95% : 848,950.88
 
-Current Price        : 755,554.00
-Potential High Price : 333,011.15
-Potential Profit     : -422,542.85
+Current Price        : 464,004.00
+Potential High Price : 334,693.86
+Potential Profit     : -129,310.14  (-27.87%)
 
 
 
 Analysis for wheat
 ==================
-Data count: 5614
-Weighted Average Price: 585.79
-Weighted Stdev: 607.04
+Data count: 5718
+Weighted Average Price: 579.91
+Weighted Stdev: 603.05
 
 Percentiles:
-5% : 168.68
-15% : 210.86
-50% : 270.68
-85% : 1,366.12
-95% : 2,055.93
+5% : 168.95
+15% : 212.35
+50% : 269.00
+85% : 1,347.66
+95% : 2,049.22
 
-Current Price        : 260.00
-Potential High Price : 270.68
-Potential Profit     : 10.68
+Current Price        : 264.00
+Potential High Price : 269.00
+Potential Profit     : 5.00  (1.89%)
 
 
 
 Analysis for shrimp
 ===================
-Data count: 5612
-Weighted Average Price: 28,514.58
-Weighted Stdev: 6,019.39
+Data count: 5716
+Weighted Average Price: 28,428.80
+Weighted Stdev: 5,997.57
 
 Percentiles:
-5% : 22,568.54
-15% : 23,671.64
-50% : 27,025.36
-85% : 33,680.83
-95% : 42,125.26
+5% : 22,579.12
+15% : 23,703.38
+50% : 26,632.31
+85% : 33,574.26
+95% : 41,978.98
 
 Current Price        : 23,800.00
-Potential High Price : 27,025.36
-Potential Profit     : 3,225.36
+Potential High Price : 26,632.31
+Potential Profit     : 2,832.31  (11.90%)
 
 
 
 Analysis for sardine
 ====================
-Data count: 5420
-Weighted Average Price: 256,726.04
-Weighted Stdev: 99,465.58
+Data count: 5718
+Weighted Average Price: 259,150.74
+Weighted Stdev: 98,726.07
 
 Percentiles:
-5% : 172,974.58
-15% : 178,930.47
-50% : 222,744.96
-85% : 393,366.00
+5% : 173,179.95
+15% : 179,375.26
+50% : 224,430.09
+85% : 392,554.40
 95% : 487,999.00
 
-Current Price        : 180,000.00
-Potential High Price : 222,744.96
-Potential Profit     : 42,744.96
+Current Price        : 425,000.00
+Potential High Price : 224,430.09
+Potential Profit     : -200,569.91  (-47.19%)
 
 
 
@@ -549,159 +549,159 @@ Percentiles:
 
 Current Price        : 79,000,000.00
 Potential High Price : 57,882,858.04
-Potential Profit     : -21,117,141.96
+Potential Profit     : -21,117,141.96  (-26.73%)
 
 
 
 Analysis for blueFishingRodOrb
 ==============================
-Data count: 5611
-Weighted Average Price: 35,777,601.01
-Weighted Stdev: 41,528,615.85
+Data count: 5715
+Weighted Average Price: 37,455,838.90
+Weighted Stdev: 42,955,748.24
 
 Percentiles:
-5% : 13,510,689.85
-15% : 14,932,215.95
-50% : 16,915,969.81
-85% : 62,930,592.19
+5% : 13,546,968.95
+15% : 14,971,659.41
+50% : 16,948,823.72
+85% : 86,626,615.30
 95% : 150,000,000.00
 
 Current Price        : 128,000,000.00
-Potential High Price : 16,915,969.81
-Potential Profit     : -111,084,030.19
+Potential High Price : 16,948,823.72
+Potential Profit     : -111,051,176.28  (-86.76%)
 
 
 
 Analysis for snakeSkin
 ======================
-Data count: 5613
-Weighted Average Price: 4,353.80
-Weighted Stdev: 2,298.72
+Data count: 5717
+Weighted Average Price: 4,313.72
+Weighted Stdev: 2,296.69
 
 Percentiles:
-5% : 1,984.02
-15% : 2,585.95
-50% : 4,247.00
-85% : 6,615.26
-95% : 9,725.05
+5% : 1,989.60
+15% : 2,559.61
+50% : 4,164.80
+85% : 6,539.70
+95% : 9,681.09
 
-Current Price        : 1,998.00
-Potential High Price : 4,247.00
-Potential Profit     : 2,249.00
+Current Price        : 2,299.00
+Potential High Price : 4,164.80
+Potential Profit     : 1,865.80  (81.16%)
 
 
 
 Analysis for bow
 ================
-Data count: 5610
-Weighted Average Price: 74,075,600.95
-Weighted Stdev: 5,457,410.36
+Data count: 5714
+Weighted Average Price: 74,307,565.34
+Weighted Stdev: 5,759,965.71
 
 Percentiles:
 5% : 65,000,000.00
-15% : 68,027,867.91
-50% : 74,370,521.32
-85% : 77,480,486.13
-95% : 79,796,532.22
+15% : 68,192,591.82
+50% : 74,426,611.71
+85% : 77,632,538.97
+95% : 83,982,868.16
 
-Current Price        : 100,000,000.00
-Potential High Price : 74,370,521.32
-Potential Profit     : -25,629,478.68
+Current Price        : 74,000,000.00
+Potential High Price : 74,426,611.71
+Potential Profit     : 426,611.71  (0.58%)
 
 
 
 Analysis for skeletonShield
 ===========================
-Data count: 5611
-Weighted Average Price: 2,526,727.11
-Weighted Stdev: 1,626,690.40
+Data count: 5715
+Weighted Average Price: 2,509,837.62
+Weighted Stdev: 1,616,607.39
 
 Percentiles:
-5% : 1,038,184.59
-15% : 1,198,431.48
-50% : 1,740,468.18
-85% : 4,125,011.77
-95% : 6,375,003.92
+5% : 1,039,785.01
+15% : 1,200,585.11
+50% : 1,733,688.45
+85% : 4,062,826.06
+95% : 6,358,044.18
 
-Current Price        : 1,700,000.00
-Potential High Price : 1,740,468.18
-Potential Profit     : 40,468.18
+Current Price        : 1,500,000.00
+Potential High Price : 1,733,688.45
+Potential Profit     : 233,688.45  (15.58%)
 
 
 
 Analysis for ghostAmulet
 ========================
-Data count: 5611
-Weighted Average Price: 125,077,468.28
-Weighted Stdev: 23,508,416.35
+Data count: 5715
+Weighted Average Price: 124,509,907.06
+Weighted Stdev: 23,663,644.03
 
 Percentiles:
-5% : 99,999,999.29
+5% : 99,589,673.20
 15% : 100,000,000.00
-50% : 122,675,260.03
-85% : 136,820,257.08
-95% : 176,554,733.23
+50% : 122,494,754.91
+85% : 136,634,747.04
+95% : 176,051,196.77
 
 Current Price        : 93,888,888.00
-Potential High Price : 122,675,260.03
-Potential Profit     : 28,786,372.03
+Potential High Price : 122,494,754.91
+Potential Profit     : 28,605,866.91  (30.47%)
 
 
 
 Analysis for cannonWheels
 =========================
-Data count: 5611
-Weighted Average Price: 146,558,807.21
-Weighted Stdev: 21,683,007.84
+Data count: 5715
+Weighted Average Price: 146,712,417.72
+Weighted Stdev: 21,514,417.88
 
 Percentiles:
-5% : 122,073,757.08
-15% : 126,229,161.39
+5% : 122,124,660.66
+15% : 126,315,913.79
 50% : 135,000,000.00
-85% : 170,633,635.57
-95% : 186,502,688.70
+85% : 170,080,981.98
+95% : 186,265,837.16
 
 Current Price        : 155,000,000.00
 Potential High Price : 135,000,000.00
-Potential Profit     : -20,000,000.00
+Potential Profit     : -20,000,000.00  (-12.90%)
 
 
 
 Analysis for cannonBarrel
 =========================
-Data count: 5610
-Weighted Average Price: 116,860,814.21
-Weighted Stdev: 11,637,005.38
+Data count: 5714
+Weighted Average Price: 116,585,091.60
+Weighted Stdev: 11,709,066.08
 
 Percentiles:
-5% : 102,922,218.00
+5% : 102,260,583.74
 15% : 104,500,000.00
-50% : 114,180,099.58
-85% : 129,849,800.11
-95% : 140,674,163.99
+50% : 113,856,557.92
+85% : 129,724,482.78
+95% : 140,580,938.48
 
-Current Price        : 104,500,000.00
-Potential High Price : 114,180,099.58
-Potential Profit     : 9,680,099.58
+Current Price        : 99,000,000.00
+Potential High Price : 113,856,557.92
+Potential Profit     : 14,856,557.92  (15.01%)
 
 
 
 Analysis for cannonStand
 ========================
-Data count: 5609
-Weighted Average Price: 257,293,491.40
-Weighted Stdev: 41,067,679.33
+Data count: 5713
+Weighted Average Price: 254,930,089.00
+Weighted Stdev: 44,239,581.67
 
 Percentiles:
-5% : 162,078,824.67
-15% : 222,004,071.79
-50% : 269,317,923.69
-85% : 296,021,321.29
-95% : 299,836,925.44
+5% : 148,657,115.54
+15% : 220,131,941.31
+50% : 267,613,641.88
+85% : 295,878,899.07
+95% : 299,773,683.38
 
-Current Price        : 130,000,000.00
-Potential High Price : 269,317,923.69
-Potential Profit     : 139,317,923.69
+Current Price        : 125,000,000.00
+Potential High Price : 267,613,641.88
+Potential Profit     : 142,613,641.88  (114.09%)
 
 
 
@@ -720,7 +720,7 @@ Percentiles:
 
 Current Price        : 1,000,000.00
 Potential High Price : 1,000,000.00
-Potential Profit     : 0.00
+Potential Profit     : 0.00  (0.00%)
 
 
 
@@ -739,7 +739,7 @@ Percentiles:
 
 Current Price        : 1,000,000.00
 Potential High Price : 156,613.14
-Potential Profit     : -843,386.86
+Potential Profit     : -843,386.86  (-84.34%)
 
 
 
@@ -758,406 +758,406 @@ Percentiles:
 
 Current Price        : 62,899.00
 Potential High Price : 78,144.27
-Potential Profit     : 15,245.27
+Potential Profit     : 15,245.27  (24.24%)
 
 
 
 Analysis for strangeGreenLeaf
 =============================
-Data count: 5610
-Weighted Average Price: 8,682.01
-Weighted Stdev: 4,034.00
+Data count: 5714
+Weighted Average Price: 8,642.29
+Weighted Stdev: 4,007.75
 
 Percentiles:
-5% : 5,047.66
-15% : 5,346.16
-50% : 7,280.80
-85% : 12,357.14
-95% : 18,941.10
+5% : 5,049.86
+15% : 5,354.96
+50% : 7,240.99
+85% : 12,302.72
+95% : 18,886.93
 
 Current Price        : 6,500.00
-Potential High Price : 7,280.80
-Potential Profit     : 780.80
+Potential High Price : 7,240.99
+Potential Profit     : 740.99  (11.40%)
 
 
 
 Analysis for strangeYellowLeaf
 ==============================
-Data count: 5610
-Weighted Average Price: 21,042.65
-Weighted Stdev: 12,678.97
+Data count: 5714
+Weighted Average Price: 21,145.00
+Weighted Stdev: 12,585.52
 
 Percentiles:
-5% : 9,029.81
-15% : 10,814.93
-50% : 19,406.40
-85% : 25,937.92
-95% : 51,458.23
+5% : 9,044.44
+15% : 10,865.86
+50% : 19,583.42
+85% : 26,557.47
+95% : 50,955.09
 
 Current Price        : 26,666.00
-Potential High Price : 19,406.40
-Potential Profit     : -7,259.60
+Potential High Price : 19,583.42
+Potential Profit     : -7,082.58  (-26.56%)
 
 
 
 Analysis for strangeBlueLeaf
 ============================
-Data count: 5610
-Weighted Average Price: 672,348.38
-Weighted Stdev: 205,717.81
+Data count: 5714
+Weighted Average Price: 670,480.50
+Weighted Stdev: 204,304.20
 
 Percentiles:
-5% : 497,274.72
-15% : 520,637.39
-50% : 586,238.31
-85% : 972,124.19
-95% : 1,145,607.55
+5% : 497,506.61
+15% : 521,217.11
+50% : 585,289.82
+85% : 967,124.36
+95% : 1,144,041.45
 
-Current Price        : 589,999.00
-Potential High Price : 586,238.31
-Potential Profit     : -3,760.69
+Current Price        : 549,999.00
+Potential High Price : 585,289.82
+Potential Profit     : 35,290.82  (6.42%)
 
 
 
 Analysis for strangePinkLeaf
 ============================
-Data count: 5610
-Weighted Average Price: 249,811.80
-Weighted Stdev: 81,247.97
+Data count: 5714
+Weighted Average Price: 247,902.87
+Weighted Stdev: 81,717.83
 
 Percentiles:
-5% : 158,112.90
-15% : 171,244.06
-50% : 224,861.38
-85% : 363,220.85
-95% : 405,337.48
+5% : 155,244.10
+15% : 170,343.29
+50% : 223,228.77
+85% : 362,007.12
+95% : 405,008.45
 
-Current Price        : 150,000.00
-Potential High Price : 224,861.38
-Potential Profit     : 74,861.38
+Current Price        : 140,000.00
+Potential High Price : 223,228.77
+Potential Profit     : 83,228.77  (59.45%)
 
 
 
 Analysis for strangePurpleLeaf
 ==============================
-Data count: 5611
-Weighted Average Price: 2,286,599.59
-Weighted Stdev: 1,139,629.98
+Data count: 5715
+Weighted Average Price: 2,271,849.19
+Weighted Stdev: 1,134,413.96
 
 Percentiles:
-5% : 878,098.67
-15% : 1,019,143.04
+5% : 881,034.95
+15% : 1,020,979.76
 50% : 2,500,000.00
-85% : 3,443,321.92
-95% : 4,566,625.64
+85% : 3,422,224.59
+95% : 4,538,015.62
 
-Current Price        : 1,400,000.00
+Current Price        : 1,550,000.00
 Potential High Price : 2,500,000.00
-Potential Profit     : 1,100,000.00
+Potential Profit     : 950,000.00  (61.29%)
 
 
 
 Analysis for enchantStargemPotionSpellScroll
 ============================================
-Data count: 5610
-Weighted Average Price: 2,020,535.78
-Weighted Stdev: 609,033.88
+Data count: 5714
+Weighted Average Price: 2,029,262.32
+Weighted Stdev: 606,859.94
 
 Percentiles:
-5% : 1,136,301.09
-15% : 1,219,255.85
-50% : 2,124,636.59
-85% : 2,499,996.02
-95% : 2,999,220.74
+5% : 1,136,822.82
+15% : 1,221,690.58
+50% : 2,143,491.41
+85% : 2,499,995.84
+95% : 2,993,424.33
 
 Current Price        : 2,499,992.00
-Potential High Price : 2,124,636.59
-Potential Profit     : -375,355.41
+Potential High Price : 2,143,491.41
+Potential Profit     : -356,500.59  (-14.26%)
 
 
 
 Analysis for veryHighWindSpellScroll
 ====================================
-Data count: 5610
-Weighted Average Price: 749,516.62
-Weighted Stdev: 626,508.27
+Data count: 5714
+Weighted Average Price: 741,790.02
+Weighted Stdev: 623,368.99
 
 Percentiles:
 5% : 325,000.00
-15% : 353,496.90
-50% : 472,785.55
-85% : 1,439,633.92
-95% : 2,348,074.33
+15% : 348,387.54
+50% : 468,790.39
+85% : 1,414,298.08
+95% : 2,338,617.10
 
-Current Price        : 325,000.00
-Potential High Price : 472,785.55
-Potential Profit     : 147,785.55
+Current Price        : 324,999.00
+Potential High Price : 468,790.39
+Potential Profit     : 143,791.39  (44.24%)
 
 
 
 Analysis for emptyOrbSpellScroll
 ================================
-Data count: 5610
-Weighted Average Price: 12,893,667.93
-Weighted Stdev: 3,351,662.39
+Data count: 5714
+Weighted Average Price: 12,788,672.93
+Weighted Stdev: 3,409,374.67
 
 Percentiles:
-5% : 7,499,090.57
-15% : 7,500,000.00
-50% : 14,337,616.24
+5% : 7,474,820.92
+15% : 7,499,865.09
+50% : 14,300,162.76
 85% : 15,500,000.00
-95% : 17,564,227.57
+95% : 17,536,475.84
 
 Current Price        : 7,125,000.00
-Potential High Price : 14,337,616.24
-Potential Profit     : 7,212,616.24
+Potential High Price : 14,300,162.76
+Potential Profit     : 7,175,162.76  (100.70%)
 
 
 
 Analysis for ghostScanSpellScroll
 =================================
-Data count: 5610
-Weighted Average Price: 1,498,011.96
-Weighted Stdev: 517,721.87
+Data count: 5714
+Weighted Average Price: 1,486,666.28
+Weighted Stdev: 519,716.22
 
 Percentiles:
-5% : 908,784.60
-15% : 997,546.44
-50% : 1,436,129.96
-85% : 2,239,248.33
-95% : 2,366,247.43
+5% : 900,000.00
+15% : 979,780.19
+50% : 1,426,447.10
+85% : 2,231,283.49
+95% : 2,365,804.92
 
-Current Price        : 900,000.00
-Potential High Price : 1,436,129.96
-Potential Profit     : 536,129.96
+Current Price        : 850,000.00
+Potential High Price : 1,426,447.10
+Potential Profit     : 576,447.10  (67.82%)
 
 
 
 Analysis for greenBowOrb
 ========================
-Data count: 5610
-Weighted Average Price: 39,262,494.94
-Weighted Stdev: 11,821,712.51
+Data count: 5714
+Weighted Average Price: 39,099,654.66
+Weighted Stdev: 11,780,391.16
 
 Percentiles:
 5% : 25,500,000.00
-15% : 29,800,000.00
-50% : 36,067,676.59
-85% : 52,511,956.91
-95% : 67,514,321.35
+15% : 29,648,416.48
+50% : 35,877,950.42
+85% : 52,086,909.39
+95% : 67,388,620.18
 
-Current Price        : 25,500,000.00
-Potential High Price : 36,067,676.59
-Potential Profit     : 10,567,676.59
+Current Price        : 35,000,000.00
+Potential High Price : 35,877,950.42
+Potential Profit     : 877,950.42  (2.51%)
 
 
 
 Analysis for fishingBait
 ========================
-Data count: 5611
-Weighted Average Price: 86,028.48
-Weighted Stdev: 3,937.11
+Data count: 5715
+Weighted Average Price: 86,099.61
+Weighted Stdev: 3,936.65
 
 Percentiles:
-5% : 81,098.86
-15% : 81,931.69
+5% : 81,104.87
+15% : 81,955.48
 50% : 85,000.00
-85% : 90,940.60
-95% : 92,154.20
+85% : 90,934.41
+95% : 92,140.87
 
-Current Price        : 90,900.00
+Current Price        : 89,000.00
 Potential High Price : 85,000.00
-Potential Profit     : -5,900.00
+Potential Profit     : -4,000.00  (-4.49%)
 
 
 
 Analysis for redMushroom
 ========================
-Data count: 5610
-Weighted Average Price: 2,154.67
-Weighted Stdev: 1,092.93
+Data count: 5714
+Weighted Average Price: 2,147.26
+Weighted Stdev: 1,084.37
 
 Percentiles:
-5% : 1,414.13
-15% : 1,453.90
-50% : 1,566.93
-85% : 3,215.19
-95% : 4,859.75
+5% : 1,414.34
+15% : 1,455.16
+50% : 1,566.99
+85% : 3,183.86
+95% : 4,840.41
 
-Current Price        : 1,900.00
-Potential High Price : 1,566.93
-Potential Profit     : -333.07
+Current Price        : 1,600.00
+Potential High Price : 1,566.99
+Potential Profit     : -33.01  (-2.06%)
 
 
 
 Analysis for blewitMushroom
 ===========================
-Data count: 5610
-Weighted Average Price: 7,468.71
-Weighted Stdev: 1,817.69
+Data count: 5714
+Weighted Average Price: 7,612.40
+Weighted Stdev: 2,152.34
 
 Percentiles:
-5% : 5,974.86
-15% : 6,300.00
-50% : 7,198.71
-85% : 7,863.03
-95% : 10,358.48
+5% : 5,981.04
+15% : 6,301.36
+50% : 7,215.93
+85% : 7,920.37
+95% : 10,894.89
 
-Current Price        : 22,162.00
-Potential High Price : 7,198.71
-Potential Profit     : -14,963.29
+Current Price        : 8,750.00
+Potential High Price : 7,215.93
+Potential Profit     : -1,534.07  (-17.53%)
 
 
 
 Analysis for dottedGreenLeaf
 ============================
-Data count: 5610
-Weighted Average Price: 43,215.36
-Weighted Stdev: 25,263.43
+Data count: 5714
+Weighted Average Price: 43,156.80
+Weighted Stdev: 25,036.16
 
 Percentiles:
-5% : 34,475.26
-15% : 37,014.82
-50% : 38,678.04
-85% : 44,857.72
+5% : 34,499.91
+15% : 37,043.59
+50% : 38,704.31
+85% : 44,782.48
 95% : 46,500.00
 
 Current Price        : 39,998.00
-Potential High Price : 38,678.04
-Potential Profit     : -1,319.96
+Potential High Price : 38,704.31
+Potential Profit     : -1,293.69  (-3.23%)
 
 
 
 Analysis for greenLeaf
 ======================
-Data count: 5609
-Weighted Average Price: 113,803.48
-Weighted Stdev: 71,592.26
+Data count: 5713
+Weighted Average Price: 113,276.60
+Weighted Stdev: 71,047.39
 
 Percentiles:
-5% : 60,971.78
-15% : 66,851.13
-50% : 78,234.66
-85% : 192,726.07
-95% : 289,031.22
+5% : 61,099.95
+15% : 66,946.15
+50% : 78,430.54
+85% : 191,201.52
+95% : 287,969.37
 
-Current Price        : 95,000.00
-Potential High Price : 78,234.66
-Potential Profit     : -16,765.34
+Current Price        : 74,998.00
+Potential High Price : 78,430.54
+Potential Profit     : 3,432.54  (4.58%)
 
 
 
 Analysis for limeLeaf
 =====================
-Data count: 5610
-Weighted Average Price: 53,878.59
-Weighted Stdev: 25,518.05
+Data count: 5714
+Weighted Average Price: 53,646.40
+Weighted Stdev: 25,342.36
 
 Percentiles:
-5% : 25,922.46
+5% : 25,959.04
 15% : 33,000.00
-50% : 46,020.58
-85% : 79,907.10
-95% : 115,113.13
+50% : 45,921.72
+85% : 79,381.40
+95% : 114,783.50
 
-Current Price        : 42,275.00
-Potential High Price : 46,020.58
-Potential Profit     : 3,745.58
+Current Price        : 40,000.00
+Potential High Price : 45,921.72
+Potential Profit     : 5,921.72  (14.80%)
 
 
 
 Analysis for goldLeaf
 =====================
-Data count: 5610
-Weighted Average Price: 509,363.47
-Weighted Stdev: 26,207.39
+Data count: 5714
+Weighted Average Price: 509,100.76
+Weighted Stdev: 26,042.31
 
 Percentiles:
-5% : 464,414.06
-15% : 489,582.19
-50% : 506,245.04
-85% : 534,573.52
-95% : 570,520.05
+5% : 464,698.10
+15% : 489,651.72
+50% : 505,835.51
+85% : 534,227.80
+95% : 570,434.23
 
-Current Price        : 499,998.00
-Potential High Price : 506,245.04
-Potential Profit     : 6,247.04
+Current Price        : 490,000.00
+Potential High Price : 505,835.51
+Potential Profit     : 15,835.51  (3.23%)
 
 
 
 Analysis for crystalLeaf
 ========================
-Data count: 5609
-Weighted Average Price: 741,937.05
-Weighted Stdev: 102,108.85
+Data count: 5713
+Weighted Average Price: 743,672.28
+Weighted Stdev: 101,983.74
 
 Percentiles:
-5% : 599,170.23
-15% : 625,303.96
-50% : 735,026.18
-85% : 855,083.97
-95% : 939,463.29
+5% : 599,191.29
+15% : 626,164.53
+50% : 737,894.74
+85% : 854,947.88
+95% : 938,323.04
 
-Current Price        : 855,000.00
-Potential High Price : 735,026.18
-Potential Profit     : -119,973.82
+Current Price        : 820,000.00
+Potential High Price : 737,894.74
+Potential Profit     : -82,105.26  (-10.01%)
 
 
 
 Analysis for stripedCrystalLeaf
 ===============================
-Data count: 5609
-Weighted Average Price: 1,849,731.18
-Weighted Stdev: 135,186.87
+Data count: 5713
+Weighted Average Price: 1,847,724.39
+Weighted Stdev: 134,759.05
 
 Percentiles:
-5% : 1,657,289.46
-15% : 1,724,171.92
-50% : 1,848,782.08
-85% : 1,945,936.26
-95% : 1,981,936.64
+5% : 1,659,512.99
+15% : 1,726,237.90
+50% : 1,846,838.83
+85% : 1,944,940.03
+95% : 1,981,652.05
 
-Current Price        : 1,740,000.00
-Potential High Price : 1,848,782.08
-Potential Profit     : 108,782.08
+Current Price        : 1,739,000.00
+Potential High Price : 1,846,838.83
+Potential Profit     : 107,838.83  (6.20%)
 
 
 
 Analysis for snapegrass
 =======================
-Data count: 5609
-Weighted Average Price: 29,381.95
-Weighted Stdev: 18,438.50
+Data count: 5713
+Weighted Average Price: 29,099.93
+Weighted Stdev: 18,387.13
 
 Percentiles:
-5% : 12,763.45
-15% : 16,997.00
-50% : 21,610.26
-85% : 48,239.59
-95% : 75,079.86
+5% : 12,807.32
+15% : 16,950.00
+50% : 21,458.47
+85% : 47,514.21
+95% : 74,870.17
 
-Current Price        : 12,750.00
-Potential High Price : 21,610.26
-Potential Profit     : 8,860.26
+Current Price        : 14,999.00
+Potential High Price : 21,458.47
+Potential Profit     : 6,459.47  (43.07%)
 
 
 
 Analysis for bones
 ==================
-Data count: 5610
-Weighted Average Price: 62,145.66
-Weighted Stdev: 2,197.37
+Data count: 5714
+Weighted Average Price: 62,165.03
+Weighted Stdev: 2,182.61
 
 Percentiles:
-5% : 58,525.51
-15% : 59,347.76
-50% : 62,827.53
-85% : 63,972.86
-95% : 65,384.48
+5% : 58,531.84
+15% : 59,369.19
+50% : 62,857.94
+85% : 63,969.93
+95% : 65,360.57
 
-Current Price        : 62,500.00
-Potential High Price : 62,827.53
-Potential Profit     : 327.53
+Current Price        : 63,900.00
+Potential High Price : 62,857.94
+Potential Profit     : -1,042.06  (-1.63%)
 
 
 
@@ -1176,18 +1176,18 @@ Percentiles:
 
 Current Price        : 495,000.00
 Potential High Price : 398,084.25
-Potential Profit     : -96,915.75
+Potential Profit     : -96,915.75  (-19.58%)
 
 
 
 Analysis for stardust
 =====================
-Data count: 5615
+Data count: 5719
 Weighted Average Price: 8.95
 Weighted Stdev: 0.18
 
 Percentiles:
-5% : 8.51
+5% : 8.52
 15% : 9.00
 50% : 9.00
 85% : 9.00
@@ -1195,425 +1195,425 @@ Percentiles:
 
 Current Price        : 9.00
 Potential High Price : 9.00
-Potential Profit     : 0.00
+Potential Profit     : 0.00  (0.00%)
 
 
 
 Analysis for marble
 ===================
-Data count: 5609
-Weighted Average Price: 146.98
-Weighted Stdev: 32.01
+Data count: 5713
+Weighted Average Price: 147.30
+Weighted Stdev: 31.91
 
 Percentiles:
-5% : 117.58
-15% : 125.72
-50% : 135.71
-85% : 173.34
-95% : 198.39
+5% : 117.71
+15% : 125.79
+50% : 136.05
+85% : 173.99
+95% : 198.20
 
-Current Price        : 130.00
-Potential High Price : 135.71
-Potential Profit     : 5.71
+Current Price        : 198.00
+Potential High Price : 136.05
+Potential Profit     : -61.95  (-31.29%)
 
 
 
 Analysis for sand
 =================
-Data count: 5609
-Weighted Average Price: 1,642.03
-Weighted Stdev: 1,865.78
+Data count: 5713
+Weighted Average Price: 1,649.43
+Weighted Stdev: 1,849.52
 
 Percentiles:
-5% : 654.62
-15% : 707.42
-50% : 843.43
-85% : 2,407.03
-95% : 6,671.61
+5% : 655.71
+15% : 707.90
+50% : 855.02
+85% : 2,382.24
+95% : 6,627.16
 
-Current Price        : 2,100.00
-Potential High Price : 843.43
-Potential Profit     : -1,256.57
+Current Price        : 1,999.00
+Potential High Price : 855.02
+Potential Profit     : -1,143.98  (-57.23%)
 
 
 
 Analysis for glass
 ==================
-Data count: 5610
-Weighted Average Price: 882.60
-Weighted Stdev: 223.65
+Data count: 5714
+Weighted Average Price: 879.37
+Weighted Stdev: 222.88
 
 Percentiles:
-5% : 599.41
-15% : 646.34
-50% : 835.62
-85% : 1,130.39
-95% : 1,377.19
+5% : 599.84
+15% : 647.62
+50% : 831.68
+85% : 1,123.38
+95% : 1,374.85
 
 Current Price        : 705.00
-Potential High Price : 835.62
-Potential Profit     : 130.62
+Potential High Price : 831.68
+Potential Profit     : 126.68  (17.97%)
 
 
 
 Analysis for thread
 ===================
-Data count: 5611
-Weighted Average Price: 4,109.05
-Weighted Stdev: 5,001.25
+Data count: 5715
+Weighted Average Price: 4,192.05
+Weighted Stdev: 4,992.89
 
 Percentiles:
-5% : 1,022.18
-15% : 1,058.98
-50% : 1,198.63
-85% : 11,429.71
-95% : 15,417.51
+5% : 1,022.44
+15% : 1,060.05
+50% : 1,198.75
+85% : 11,253.85
+95% : 15,346.77
 
 Current Price        : 8,670.00
-Potential High Price : 1,198.63
-Potential Profit     : -7,471.37
+Potential High Price : 1,198.75
+Potential Profit     : -7,471.25  (-86.17%)
 
 
 
 Analysis for redMushroomSeeds
 =============================
-Data count: 5610
-Weighted Average Price: 27,114.97
-Weighted Stdev: 10,016.70
+Data count: 5714
+Weighted Average Price: 26,967.18
+Weighted Stdev: 9,984.30
 
 Percentiles:
-5% : 16,669.74
-15% : 16,910.10
-50% : 24,488.19
-85% : 40,458.31
-95% : 47,304.47
+5% : 16,671.93
+15% : 16,917.12
+50% : 23,931.48
+85% : 40,270.19
+95% : 47,253.88
 
-Current Price        : 19,000.00
-Potential High Price : 24,488.19
-Potential Profit     : 5,488.19
+Current Price        : 18,990.00
+Potential High Price : 23,931.48
+Potential Profit     : 4,941.48  (26.02%)
 
 
 
 Analysis for rawShrimp
 ======================
-Data count: 5609
-Weighted Average Price: 19,506.61
-Weighted Stdev: 4,300.68
+Data count: 5713
+Weighted Average Price: 19,497.88
+Weighted Stdev: 4,264.70
 
 Percentiles:
-5% : 15,145.04
-15% : 16,128.04
-50% : 18,557.48
-85% : 20,953.76
-95% : 29,421.07
+5% : 15,165.95
+15% : 16,167.38
+50% : 18,574.89
+85% : 20,937.09
+95% : 29,193.14
 
-Current Price        : 17,000.00
-Potential High Price : 18,557.48
-Potential Profit     : 1,557.48
+Current Price        : 20,999.00
+Potential High Price : 18,574.89
+Potential Profit     : -2,424.11  (-11.54%)
 
 
 
 Analysis for rawTuna
 ====================
-Data count: 5608
-Weighted Average Price: 68,522.05
-Weighted Stdev: 53,279.42
+Data count: 5712
+Weighted Average Price: 74,532.65
+Weighted Stdev: 69,254.97
 
 Percentiles:
-5% : 34,352.60
-15% : 37,957.40
-50% : 51,527.79
-85% : 88,979.89
-95% : 142,818.15
+5% : 34,390.55
+15% : 38,055.99
+50% : 52,095.07
+85% : 93,098.60
+95% : 153,936.33
 
-Current Price        : 500,000.00
-Potential High Price : 51,527.79
-Potential Profit     : -448,472.21
+Current Price        : 300,050.00
+Potential High Price : 52,095.07
+Potential Profit     : -247,954.93  (-82.64%)
 
 
 
 Analysis for rawSardine
 =======================
-Data count: 5610
-Weighted Average Price: 23,918.36
-Weighted Stdev: 10,507.33
+Data count: 5714
+Weighted Average Price: 23,860.06
+Weighted Stdev: 10,420.54
 
 Percentiles:
-5% : 13,855.51
-15% : 17,122.69
-50% : 21,108.79
-85% : 30,385.59
-95% : 40,776.80
+5% : 13,894.49
+15% : 17,153.88
+50% : 21,068.52
+85% : 30,113.40
+95% : 40,653.63
 
-Current Price        : 22,000.00
-Potential High Price : 21,108.79
-Potential Profit     : -891.21
+Current Price        : 19,465.00
+Potential High Price : 21,068.52
+Potential Profit     : 1,603.52  (8.24%)
 
 
 
 Analysis for dottedGreenLeafSeeds
 =================================
-Data count: 5609
-Weighted Average Price: 109,116.90
-Weighted Stdev: 6,854.07
+Data count: 5713
+Weighted Average Price: 109,132.98
+Weighted Stdev: 6,792.42
 
 Percentiles:
-5% : 99,162.21
-15% : 101,337.76
-50% : 109,480.01
-85% : 115,974.70
+5% : 99,180.72
+15% : 101,390.89
+50% : 109,848.19
+85% : 115,945.89
 95% : 120,000.00
 
 Current Price        : 110,000.00
-Potential High Price : 109,480.01
-Potential Profit     : -519.99
+Potential High Price : 109,848.19
+Potential Profit     : -151.81  (-0.14%)
 
 
 
 Analysis for blewitMushroomSeeds
 ================================
-Data count: 5415
-Weighted Average Price: 71,553.82
-Weighted Stdev: 10,209.90
+Data count: 5713
+Weighted Average Price: 79,737.01
+Weighted Stdev: 41,499.31
 
 Percentiles:
-5% : 57,757.11
-15% : 59,873.60
-50% : 72,130.23
-85% : 80,529.89
-95% : 92,893.16
+5% : 58,226.16
+15% : 59,936.20
+50% : 72,683.28
+85% : 81,910.52
+95% : 99,897.78
 
-Current Price        : 75,000.00
-Potential High Price : 72,130.23
-Potential Profit     : -2,869.77
+Current Price        : 380,000.00
+Potential High Price : 72,683.28
+Potential Profit     : -307,316.72  (-80.87%)
 
 
 
 Analysis for snapegrassSeeds
 ============================
-Data count: 5608
-Weighted Average Price: 66,453.48
-Weighted Stdev: 24,785.29
+Data count: 5712
+Weighted Average Price: 66,948.12
+Weighted Stdev: 24,907.23
 
 Percentiles:
-5% : 36,380.11
-15% : 43,053.73
-50% : 59,285.48
-85% : 91,025.66
-95% : 121,090.91
+5% : 36,475.75
+15% : 43,171.63
+50% : 60,114.35
+85% : 91,896.75
+95% : 120,704.93
 
-Current Price        : 67,532.00
-Potential High Price : 59,285.48
-Potential Profit     : -8,246.52
+Current Price        : 118,998.00
+Potential High Price : 60,114.35
+Potential Profit     : -58,883.65  (-49.48%)
 
 
 
 Analysis for limeLeafSeeds
 ==========================
-Data count: 5609
-Weighted Average Price: 157,264.61
-Weighted Stdev: 85,808.48
+Data count: 5713
+Weighted Average Price: 156,552.06
+Weighted Stdev: 85,187.81
 
 Percentiles:
-5% : 70,941.32
-15% : 74,140.98
-50% : 127,861.98
-85% : 278,243.75
-95% : 309,437.25
+5% : 70,960.06
+15% : 74,302.92
+50% : 127,500.00
+85% : 277,420.13
+95% : 309,161.16
 
-Current Price        : 127,500.00
-Potential High Price : 127,861.98
-Potential Profit     : 361.98
+Current Price        : 109,000.00
+Potential High Price : 127,500.00
+Potential Profit     : 18,500.00  (16.97%)
 
 
 
 Analysis for treeSeeds
 ======================
-Data count: 5609
-Weighted Average Price: 220,092.73
-Weighted Stdev: 120,799.41
+Data count: 5713
+Weighted Average Price: 218,807.53
+Weighted Stdev: 120,066.39
 
 Percentiles:
-5% : 136,691.62
-15% : 154,100.91
-50% : 178,418.05
-85% : 254,209.10
-95% : 539,870.92
+5% : 136,873.32
+15% : 150,000.00
+50% : 177,802.46
+85% : 252,454.64
+95% : 535,535.44
 
-Current Price        : 150,000.00
-Potential High Price : 178,418.05
-Potential Profit     : 28,418.05
+Current Price        : 149,000.00
+Potential High Price : 177,802.46
+Potential Profit     : 28,802.46  (19.33%)
 
 
 
 Analysis for promethium
 =======================
-Data count: 5609
-Weighted Average Price: 228,501.57
-Weighted Stdev: 43,536.42
+Data count: 5713
+Weighted Average Price: 227,980.18
+Weighted Stdev: 43,314.99
 
 Percentiles:
-5% : 190,375.79
-15% : 193,019.81
-50% : 215,261.61
-85% : 268,421.88
-95% : 322,062.59
+5% : 190,379.45
+15% : 193,011.34
+50% : 214,137.58
+85% : 267,422.43
+95% : 320,767.25
 
-Current Price        : 209,997.00
-Potential High Price : 215,261.61
-Potential Profit     : 5,264.61
+Current Price        : 190,000.00
+Potential High Price : 214,137.58
+Potential Profit     : 24,137.58  (12.70%)
 
 
 
 Analysis for willowTreeSeeds
 ============================
-Data count: 5608
-Weighted Average Price: 363,207.20
-Weighted Stdev: 692,938.23
+Data count: 5712
+Weighted Average Price: 364,605.39
+Weighted Stdev: 686,677.75
 
 Percentiles:
-5% : 61,992.68
-15% : 74,217.44
-50% : 100,774.43
-85% : 604,229.39
-95% : 2,006,106.43
+5% : 62,147.51
+15% : 74,437.62
+50% : 101,341.96
+85% : 593,718.52
+95% : 1,972,737.61
 
 Current Price        : 440,000.00
-Potential High Price : 100,774.43
-Potential Profit     : -339,225.57
+Potential High Price : 101,341.96
+Potential Profit     : -338,658.04  (-76.97%)
 
 
 
 Analysis for greenLeafSeeds
 ===========================
-Data count: 5610
-Weighted Average Price: 402,921.54
-Weighted Stdev: 329,874.12
+Data count: 5714
+Weighted Average Price: 399,118.97
+Weighted Stdev: 328,049.31
 
 Percentiles:
-5% : 129,643.93
-15% : 164,519.43
-50% : 229,029.78
-85% : 817,400.38
-95% : 1,178,744.51
+5% : 129,994.07
+15% : 165,368.47
+50% : 226,647.30
+85% : 807,268.57
+95% : 1,175,495.45
 
 Current Price        : 194,000.00
-Potential High Price : 229,029.78
-Potential Profit     : 35,029.78
+Potential High Price : 226,647.30
+Potential Profit     : 32,647.30  (16.83%)
 
 
 
 Analysis for oakTreeSeeds
 =========================
-Data count: 5608
-Weighted Average Price: 447,773.30
-Weighted Stdev: 330,402.04
+Data count: 5712
+Weighted Average Price: 443,974.16
+Weighted Stdev: 328,573.30
 
 Percentiles:
-5% : 190,593.00
-15% : 222,680.29
-50% : 330,831.98
-85% : 714,086.63
-95% : 1,314,694.88
+5% : 190,914.55
+15% : 222,451.62
+50% : 328,094.07
+85% : 697,495.24
+95% : 1,309,717.46
 
-Current Price        : 212,500.00
-Potential High Price : 330,831.98
-Potential Profit     : 118,331.98
+Current Price        : 265,000.00
+Potential High Price : 328,094.07
+Potential Profit     : 63,094.07  (23.81%)
 
 
 
 Analysis for emptyChisel
 ========================
-Data count: 5609
-Weighted Average Price: 760,713.11
-Weighted Stdev: 208,239.38
+Data count: 5713
+Weighted Average Price: 756,877.26
+Weighted Stdev: 208,249.35
 
 Percentiles:
-5% : 429,514.18
-15% : 528,261.27
-50% : 807,788.15
-85% : 992,677.23
-95% : 1,086,310.87
+5% : 430,604.51
+15% : 529,205.32
+50% : 796,579.13
+85% : 990,049.91
+95% : 1,084,735.02
 
 Current Price        : 550,000.00
-Potential High Price : 807,788.15
-Potential Profit     : 257,788.15
+Potential High Price : 796,579.13
+Potential Profit     : 246,579.13  (44.83%)
 
 
 
 Analysis for mapleTreeSeeds
 ===========================
-Data count: 5123
-Weighted Average Price: 235,417.45
-Weighted Stdev: 90,092.05
+Data count: 5712
+Weighted Average Price: 476,569.88
+Weighted Stdev: 846,638.54
 
 Percentiles:
 5% : 135,500.00
-15% : 136,320.57
-50% : 199,578.37
-85% : 380,825.55
-95% : 399,900.68
+15% : 145,209.59
+50% : 209,023.56
+85% : 399,804.65
+95% : 2,648,468.29
 
-Current Price        : 135,500.00
-Potential High Price : 199,578.37
-Potential Profit     : 64,078.37
+Current Price        : 5,000,000.00
+Potential High Price : 209,023.56
+Potential Profit     : -4,790,976.44  (-95.82%)
 
 
 
 Analysis for tuna
 =================
-Data count: 5608
-Weighted Average Price: 332,420.76
-Weighted Stdev: 67,886.77
+Data count: 5712
+Weighted Average Price: 332,376.69
+Weighted Stdev: 67,266.69
 
 Percentiles:
-5% : 240,315.55
-15% : 279,502.00
-50% : 318,222.55
-85% : 417,835.97
-95% : 475,957.94
+5% : 240,358.13
+15% : 280,031.94
+50% : 319,948.77
+85% : 416,300.82
+95% : 475,453.51
 
 Current Price        : 330,000.00
-Potential High Price : 318,222.55
-Potential Profit     : -11,777.45
+Potential High Price : 319,948.77
+Potential Profit     : -10,051.23  (-3.05%)
 
 
 
 Analysis for rawSwordfish
 =========================
-Data count: 5608
-Weighted Average Price: 784,176.41
-Weighted Stdev: 306,856.41
+Data count: 5712
+Weighted Average Price: 784,913.40
+Weighted Stdev: 304,104.52
 
 Percentiles:
-5% : 526,863.76
-15% : 565,446.23
-50% : 645,240.65
-85% : 1,013,682.16
-95% : 1,546,990.23
+5% : 527,219.55
+15% : 566,362.49
+50% : 650,755.76
+85% : 1,000,123.48
+95% : 1,542,470.67
 
-Current Price        : 849,999.00
-Potential High Price : 645,240.65
-Potential Profit     : -204,758.35
+Current Price        : 800,000.00
+Potential High Price : 650,755.76
+Potential Profit     : -149,244.24  (-18.66%)
 
 
 
 Analysis for goldLeafSeeds
 ==========================
-Data count: 5609
-Weighted Average Price: 1,213,446.18
-Weighted Stdev: 127,037.36
+Data count: 5713
+Weighted Average Price: 1,212,278.61
+Weighted Stdev: 126,228.03
 
 Percentiles:
-5% : 1,057,411.97
-15% : 1,095,987.65
-50% : 1,183,737.84
-85% : 1,392,532.75
-95% : 1,464,657.32
+5% : 1,058,000.39
+15% : 1,096,684.90
+50% : 1,180,873.24
+85% : 1,390,034.89
+95% : 1,464,038.53
 
-Current Price        : 1,200,000.00
-Potential High Price : 1,183,737.84
-Potential Profit     : -16,262.16
+Current Price        : 1,100,000.00
+Potential High Price : 1,180,873.24
+Potential Profit     : 80,873.24  (7.35%)
 
 
 
@@ -1632,64 +1632,64 @@ Percentiles:
 
 Current Price        : 750,000.00
 Potential High Price : 900,000.00
-Potential Profit     : 150,000.00
+Potential Profit     : 150,000.00  (20.00%)
 
 
 
 Analysis for swordfish
 ======================
-Data count: 5608
-Weighted Average Price: 4,177,340.95
-Weighted Stdev: 3,229,106.76
+Data count: 5712
+Weighted Average Price: 4,146,775.95
+Weighted Stdev: 3,207,447.26
 
 Percentiles:
-5% : 2,030,441.07
-15% : 2,152,852.67
-50% : 2,719,115.19
-85% : 7,134,573.40
-95% : 12,583,139.88
+5% : 2,031,013.27
+15% : 2,155,461.38
+50% : 2,681,427.59
+85% : 6,986,111.10
+95% : 12,531,783.68
 
-Current Price        : 2,599,999.00
-Potential High Price : 2,719,115.19
-Potential Profit     : 119,116.19
+Current Price        : 2,400,000.00
+Potential High Price : 2,681,427.59
+Potential Profit     : 281,427.59  (11.73%)
 
 
 
 Analysis for stardustTreeSeeds
 ==============================
-Data count: 5609
-Weighted Average Price: 3,597,514.78
-Weighted Stdev: 1,022,223.19
+Data count: 5713
+Weighted Average Price: 3,580,228.37
+Weighted Stdev: 1,020,868.17
 
 Percentiles:
-5% : 2,861,340.86
-15% : 2,933,437.29
+5% : 2,800,000.00
+15% : 2,921,421.22
 50% : 3,000,000.00
-85% : 4,489,836.44
-95% : 6,010,449.78
+85% : 4,424,524.92
+95% : 5,997,812.37
 
-Current Price        : 2,800,000.00
+Current Price        : 2,500,000.00
 Potential High Price : 3,000,000.00
-Potential Profit     : 200,000.00
+Potential Profit     : 500,000.00  (20.00%)
 
 
 
 Analysis for rawShark
 =====================
-Data count: 5608
-Weighted Average Price: 3,600,528.34
-Weighted Stdev: 380,037.03
+Data count: 5712
+Weighted Average Price: 3,599,586.80
+Weighted Stdev: 376,644.79
 
 Percentiles:
-5% : 3,072,440.59
-15% : 3,207,210.66
-50% : 3,568,694.00
-85% : 3,924,715.21
-95% : 4,461,482.17
+5% : 3,073,470.55
+15% : 3,219,205.75
+50% : 3,567,273.87
+85% : 3,912,281.76
+95% : 4,454,103.93
 
-Current Price        : 3,599,000.00
-Potential High Price : 3,568,694.00
-Potential Profit     : -30,306.00
+Current Price        : 3,500,000.00
+Potential High Price : 3,567,273.87
+Potential Profit     : 67,273.87  (1.92%)
 
 
 
@@ -1708,197 +1708,197 @@ Percentiles:
 
 Current Price        : 2,700,000.00
 Potential High Price : 4,779,792.03
-Potential Profit     : 2,079,792.03
+Potential Profit     : 2,079,792.03  (77.03%)
 
 
 
 Analysis for runite
 ===================
-Data count: 5608
-Weighted Average Price: 7,393,726.10
-Weighted Stdev: 3,603,173.36
+Data count: 5712
+Weighted Average Price: 7,336,424.42
+Weighted Stdev: 3,594,984.49
 
 Percentiles:
-5% : 4,573,203.59
-15% : 4,749,998.91
-50% : 6,062,345.55
-85% : 11,632,285.24
-95% : 14,517,904.47
+5% : 4,499,998.00
+15% : 4,749,998.35
+50% : 5,999,898.00
+85% : 11,556,901.71
+95% : 14,440,545.43
 
-Current Price        : 4,499,998.00
-Potential High Price : 6,062,345.55
-Potential Profit     : 1,562,347.55
+Current Price        : 3,999,998.00
+Potential High Price : 5,999,898.00
+Potential Profit     : 1,999,900.00  (50.00%)
 
 
 
 Analysis for shark
 ==================
-Data count: 5608
-Weighted Average Price: 6,314,579.31
-Weighted Stdev: 653,509.21
+Data count: 5712
+Weighted Average Price: 6,308,633.19
+Weighted Stdev: 649,003.05
 
 Percentiles:
-5% : 5,450,793.16
-15% : 5,557,535.24
-50% : 6,430,395.57
-85% : 7,041,944.71
-95% : 7,535,281.16
+5% : 5,451,434.03
+15% : 5,562,451.53
+50% : 6,417,793.81
+85% : 7,028,057.54
+95% : 7,531,383.55
 
 Current Price        : 5,988,000.00
-Potential High Price : 6,430,395.57
-Potential Profit     : 442,395.57
+Potential High Price : 6,417,793.81
+Potential Profit     : 429,793.81  (7.18%)
 
 
 
 Analysis for strangeLeafTreeSeeds
 =================================
-Data count: 5609
-Weighted Average Price: 6,273,732.57
-Weighted Stdev: 1,921,062.06
+Data count: 5713
+Weighted Average Price: 6,250,545.42
+Weighted Stdev: 1,911,097.64
 
 Percentiles:
-5% : 4,023,378.21
-15% : 4,372,642.17
-50% : 5,648,904.64
-85% : 8,516,997.46
+5% : 4,026,559.12
+15% : 4,382,184.90
+50% : 5,580,122.26
+85% : 8,500,000.00
 95% : 10,000,000.00
 
 Current Price        : 5,000,000.00
-Potential High Price : 5,648,904.64
-Potential Profit     : 648,904.64
+Potential High Price : 5,580,122.26
+Potential Profit     : 580,122.26  (11.60%)
 
 
 
 Analysis for ancientTreeSeeds
 =============================
-Data count: 3535
-Weighted Average Price: 15,609,579.06
-Weighted Stdev: 4,627,687.47
+Data count: 5709
+Weighted Average Price: 17,072,197.83
+Weighted Stdev: 4,096,016.70
 
 Percentiles:
-5% : 8,367,320.58
-15% : 9,547,325.64
-50% : 17,092,872.88
-85% : 20,626,453.89
-95% : 22,208,817.96
+5% : 8,730,389.85
+15% : 10,139,868.05
+50% : 19,007,309.48
+85% : 19,915,896.86
+95% : 21,723,004.43
 
-Current Price        : 18,900,000.00
-Potential High Price : 17,092,872.88
-Potential Profit     : -1,807,127.12
+Current Price        : 20,000,000.00
+Potential High Price : 19,007,309.48
+Potential Profit     : -992,690.52  (-4.96%)
 
 
 
 Analysis for blueChiselOrb
 ==========================
-Data count: 5608
-Weighted Average Price: 44,937,596.54
-Weighted Stdev: 39,103,694.16
+Data count: 5712
+Weighted Average Price: 47,972,808.85
+Weighted Stdev: 47,129,506.19
 
 Percentiles:
 5% : 12,980,000.00
-15% : 19,576,474.90
-50% : 27,999,999.98
-85% : 87,925,185.59
-95% : 144,268,764.26
+15% : 19,721,093.23
+50% : 28,124,439.99
+85% : 94,867,231.10
+95% : 150,726,481.02
 
-Current Price        : 18,000,000.00
-Potential High Price : 27,999,999.98
-Potential Profit     : 9,999,999.98
+Current Price        : 400,000,000.00
+Potential High Price : 28,124,439.99
+Potential Profit     : -371,875,560.01  (-92.97%)
 
 
 
 Analysis for blueRakeOrb
 ========================
-Data count: 5608
-Weighted Average Price: 37,651,112.09
-Weighted Stdev: 37,303,743.62
+Data count: 5712
+Weighted Average Price: 37,328,822.94
+Weighted Stdev: 37,038,272.08
 
 Percentiles:
-5% : 13,344,164.77
-15% : 14,247,776.64
-50% : 19,374,719.07
-85% : 84,839,558.59
-95% : 128,298,387.96
+5% : 13,352,261.65
+15% : 14,272,067.29
+50% : 19,763,815.31
+85% : 83,677,865.14
+95% : 127,927,824.55
 
 Current Price        : 19,950,000.00
-Potential High Price : 19,374,719.07
-Potential Profit     : -575,280.93
+Potential High Price : 19,763,815.31
+Potential Profit     : -186,184.69  (-0.93%)
 
 
 
 Analysis for blueAxeOrb
 =======================
-Data count: 5608
-Weighted Average Price: 41,726,085.04
-Weighted Stdev: 31,032,000.27
+Data count: 5712
+Weighted Average Price: 41,385,133.92
+Weighted Stdev: 30,849,961.62
 
 Percentiles:
-5% : 17,351,565.81
-15% : 19,231,919.65
-50% : 25,666,031.81
-85% : 77,921,053.66
-95% : 115,633,394.11
+5% : 17,369,732.12
+15% : 19,282,230.12
+50% : 25,265,146.05
+85% : 76,954,070.57
+95% : 115,281,882.24
 
 Current Price        : 23,000,000.00
-Potential High Price : 25,666,031.81
-Potential Profit     : 2,666,031.81
+Potential High Price : 25,265,146.05
+Potential Profit     : 2,265,146.05  (9.85%)
 
 
 
 Analysis for blueOilPipeOrb
 ===========================
-Data count: 5608
-Weighted Average Price: 42,676,761.27
-Weighted Stdev: 41,059,423.09
+Data count: 5712
+Weighted Average Price: 42,186,309.27
+Weighted Stdev: 40,843,056.54
 
 Percentiles:
-5% : 16,792,820.01
-15% : 18,017,647.05
-50% : 22,966,704.15
-85% : 86,966,914.21
-95% : 148,485,076.87
+5% : 16,499,999.80
+15% : 17,867,179.56
+50% : 22,878,573.31
+85% : 85,385,018.60
+95% : 147,957,778.33
 
-Current Price        : 16,499,997.00
-Potential High Price : 22,966,704.15
-Potential Profit     : 6,466,707.15
+Current Price        : 14,999,999.00
+Potential High Price : 22,878,573.31
+Potential Profit     : 7,878,574.31  (52.52%)
 
 
 
 Analysis for bluePickaxeOrb
 ===========================
-Data count: 5608
-Weighted Average Price: 37,865,036.79
-Weighted Stdev: 16,457,615.60
+Data count: 5712
+Weighted Average Price: 38,055,036.93
+Weighted Stdev: 16,367,193.62
 
 Percentiles:
-5% : 16,197,435.55
-15% : 18,577,053.70
+5% : 16,219,706.00
+15% : 18,643,457.86
 50% : 34,000,000.00
-85% : 58,229,439.30
-95% : 66,369,865.73
+85% : 57,999,461.84
+95% : 66,299,958.14
 
-Current Price        : 49,980,000.00
+Current Price        : 46,666,669.00
 Potential High Price : 34,000,000.00
-Potential Profit     : -15,980,000.00
+Potential Profit     : -12,666,669.00  (-27.14%)
 
 
 
 Analysis for blueMeditationOrb
 ==============================
-Data count: 5608
-Weighted Average Price: 58,100,133.31
-Weighted Stdev: 45,250,940.38
+Data count: 5712
+Weighted Average Price: 58,134,724.72
+Weighted Stdev: 44,837,819.18
 
 Percentiles:
-5% : 24,587,703.91
-15% : 26,828,570.11
-50% : 32,308,979.88
-85% : 114,450,999.47
-95% : 164,446,139.93
+5% : 24,598,330.10
+15% : 26,869,054.57
+50% : 32,442,724.48
+85% : 113,129,281.11
+95% : 163,969,512.76
 
 Current Price        : 60,000,000.00
-Potential High Price : 32,308,979.88
-Potential Profit     : -27,691,020.12
+Potential High Price : 32,442,724.48
+Potential Profit     : -27,557,275.52  (-45.93%)
 
 
 
@@ -1917,292 +1917,292 @@ Percentiles:
 
 Current Price        : 55,000,000.00
 Potential High Price : 88,039,897.61
-Potential Profit     : 33,039,897.61
+Potential Profit     : 33,039,897.61  (60.07%)
 
 
 
 Analysis for promethiumGlovesMould
 ==================================
-Data count: 5608
-Weighted Average Price: 67,840,729.80
-Weighted Stdev: 18,290,129.81
+Data count: 5712
+Weighted Average Price: 68,134,946.20
+Weighted Stdev: 18,251,184.79
 
 Percentiles:
-5% : 43,608,279.62
-15% : 47,585,289.64
-50% : 64,081,915.89
-85% : 88,537,555.13
-95% : 96,179,185.04
+5% : 43,683,043.32
+15% : 47,615,363.81
+50% : 64,256,552.36
+85% : 88,334,818.01
+95% : 96,116,804.39
 
 Current Price        : 84,000,000.00
-Potential High Price : 64,081,915.89
-Potential Profit     : -19,918,084.11
+Potential High Price : 64,256,552.36
+Potential Profit     : -19,743,447.64  (-23.50%)
 
 
 
 Analysis for greenRocketOrb
 ===========================
-Data count: 5608
-Weighted Average Price: 62,619,092.95
-Weighted Stdev: 4,048,325.76
+Data count: 5712
+Weighted Average Price: 62,571,406.34
+Weighted Stdev: 4,026,557.48
 
 Percentiles:
-5% : 59,593,570.98
-15% : 59,781,100.53
-50% : 60,793,872.58
-85% : 64,747,588.86
-95% : 72,313,152.84
+5% : 59,595,142.25
+15% : 59,786,073.77
+50% : 60,580,011.85
+85% : 64,730,724.31
+95% : 72,187,268.72
 
 Current Price        : 59,999,998.00
-Potential High Price : 60,793,872.58
-Potential Profit     : 793,874.58
+Potential High Price : 60,580,011.85
+Potential Profit     : 580,013.85  (0.97%)
 
 
 
 Analysis for blueHammerOrb
 ==========================
-Data count: 5607
-Weighted Average Price: 91,399,302.95
-Weighted Stdev: 104,647,844.75
+Data count: 5711
+Weighted Average Price: 94,363,069.81
+Weighted Stdev: 105,949,594.76
 
 Percentiles:
-5% : 13,565,931.65
-15% : 14,302,144.88
-50% : 24,930,848.22
+5% : 13,574,527.07
+15% : 14,317,326.55
+50% : 25,468,405.72
 85% : 254,150,000.00
 95% : 300,000,000.00
 
 Current Price        : 254,150,000.00
-Potential High Price : 24,930,848.22
-Potential Profit     : -229,219,151.78
+Potential High Price : 25,468,405.72
+Potential Profit     : -228,681,594.28  (-89.98%)
 
 
 
 Analysis for greenCombatOrb
 ===========================
-Data count: 5608
-Weighted Average Price: 86,192,133.08
-Weighted Stdev: 31,014,101.26
+Data count: 5712
+Weighted Average Price: 86,124,280.03
+Weighted Stdev: 30,735,124.10
 
 Percentiles:
-5% : 48,585,289.64
-15% : 49,753,555.51
-50% : 81,073,520.02
-85% : 125,648,710.50
-95% : 146,024,437.82
+5% : 48,594,543.23
+15% : 49,785,943.08
+50% : 81,407,151.92
+85% : 125,210,096.54
+95% : 145,769,409.32
 
-Current Price        : 85,000,000.00
-Potential High Price : 81,073,520.02
-Potential Profit     : -3,926,479.98
+Current Price        : 80,000,000.00
+Potential High Price : 81,407,151.92
+Potential Profit     : 1,407,151.92  (1.76%)
 
 
 
 Analysis for greenOilFactoryOrb
 ===============================
-Data count: 5608
-Weighted Average Price: 110,855,588.26
-Weighted Stdev: 28,829,807.71
+Data count: 5712
+Weighted Average Price: 110,590,254.41
+Weighted Stdev: 28,633,952.33
 
 Percentiles:
-5% : 77,880,180.22
-15% : 83,657,891.15
-50% : 98,939,136.01
-85% : 144,503,859.03
-95% : 174,781,531.17
+5% : 77,932,231.67
+15% : 83,814,045.50
+50% : 98,830,271.46
+85% : 143,395,331.16
+95% : 174,667,091.06
 
-Current Price        : 100,000,000.00
-Potential High Price : 98,939,136.01
-Potential Profit     : -1,060,863.99
+Current Price        : 92,666,666.00
+Potential High Price : 98,830,271.46
+Potential Profit     : 6,163,605.46  (6.65%)
 
 
 
 Analysis for greenOilStorageOrb
 ===============================
-Data count: 5608
-Weighted Average Price: 98,899,755.96
-Weighted Stdev: 26,104,871.91
+Data count: 5712
+Weighted Average Price: 98,182,393.46
+Weighted Stdev: 26,397,083.59
 
 Percentiles:
-5% : 49,078,490.51
-15% : 66,160,343.36
-50% : 108,730,836.72
+5% : 49,270,873.93
+15% : 65,000,000.00
+50% : 107,465,748.00
 85% : 120,780,000.00
-95% : 139,178,764.84
+95% : 138,925,150.92
 
 Current Price        : 59,500,000.00
-Potential High Price : 108,730,836.72
-Potential Profit     : 49,230,836.72
+Potential High Price : 107,465,748.00
+Potential Profit     : 47,965,748.00  (80.61%)
 
 
 
 Analysis for blueTrowelOrb
 ==========================
-Data count: 5608
-Weighted Average Price: 24,196,972.89
-Weighted Stdev: 24,458,618.54
+Data count: 5712
+Weighted Average Price: 23,965,777.30
+Weighted Stdev: 24,294,325.48
 
 Percentiles:
-5% : 9,069,039.38
-15% : 10,279,467.62
-50% : 12,368,881.07
-85% : 47,653,663.29
-95% : 87,269,703.52
+5% : 9,079,809.70
+15% : 10,309,293.37
+50% : 12,242,569.55
+85% : 47,027,053.07
+95% : 86,842,069.45
 
 Current Price        : 11,499,000.00
-Potential High Price : 12,368,881.07
-Potential Profit     : 869,881.07
+Potential High Price : 12,242,569.55
+Potential Profit     : 743,569.55  (6.47%)
 
 
 
 Analysis for greenEmpoweredRockOrb
 ==================================
-Data count: 5608
-Weighted Average Price: 86,835,876.87
-Weighted Stdev: 24,622,325.21
+Data count: 5712
+Weighted Average Price: 86,565,755.86
+Weighted Stdev: 24,477,644.66
 
 Percentiles:
-5% : 63,582,568.71
-15% : 71,762,434.48
-50% : 75,632,602.49
-85% : 119,742,717.96
-95% : 146,933,005.16
+5% : 63,651,415.22
+15% : 71,973,262.42
+50% : 75,585,265.13
+85% : 118,937,172.25
+95% : 146,704,124.95
 
 Current Price        : 72,000,000.00
-Potential High Price : 75,632,602.49
-Potential Profit     : 3,632,602.49
+Potential High Price : 75,585,265.13
+Potential Profit     : 3,585,265.13  (4.98%)
 
 
 
 Analysis for blueShovelOrb
 ==========================
-Data count: 5608
-Weighted Average Price: 66,764,219.79
-Weighted Stdev: 36,991,887.98
+Data count: 5712
+Weighted Average Price: 66,662,910.46
+Weighted Stdev: 36,661,128.99
 
 Percentiles:
 5% : 29,000,000.00
-15% : 30,822,854.25
-50% : 56,308,964.03
-85% : 115,819,849.14
+15% : 30,918,281.90
+50% : 56,985,210.01
+85% : 115,210,207.78
 95% : 138,541,231.00
 
 Current Price        : 61,200,000.00
-Potential High Price : 56,308,964.03
-Potential Profit     : -4,891,035.97
+Potential High Price : 56,985,210.01
+Potential Profit     : -4,214,789.99  (-6.89%)
 
 
 
 Analysis for greenBonemealBinOrb
 ================================
-Data count: 5608
-Weighted Average Price: 82,538,531.69
-Weighted Stdev: 26,185,863.26
+Data count: 5712
+Weighted Average Price: 82,601,145.96
+Weighted Stdev: 25,950,455.08
 
 Percentiles:
-5% : 50,727,086.69
-15% : 52,628,699.66
-50% : 83,857,268.33
-85% : 108,656,556.58
-95% : 129,128,294.96
+5% : 50,740,967.08
+15% : 52,677,281.01
+50% : 85,179,880.22
+85% : 108,335,958.20
+95% : 128,520,331.89
 
 Current Price        : 85,977,500.00
-Potential High Price : 83,857,268.33
-Potential Profit     : -2,120,231.67
+Potential High Price : 85,179,880.22
+Potential Profit     : -797,619.78  (-0.93%)
 
 
 
 Analysis for scythe
 ===================
-Data count: 5609
-Weighted Average Price: 357,448,833.20
-Weighted Stdev: 128,386,494.39
+Data count: 5713
+Weighted Average Price: 358,496,500.16
+Weighted Stdev: 127,445,003.84
 
 Percentiles:
-5% : 215,734,481.94
-15% : 240,567,984.94
-50% : 270,000,715.34
-85% : 518,958,959.51
-95% : 569,721,215.34
+5% : 216,535,562.68
+15% : 240,931,751.26
+50% : 270,824,970.16
+85% : 517,628,497.16
+95% : 569,209,499.05
 
 Current Price        : 415,000,000.00
-Potential High Price : 270,000,715.34
-Potential Profit     : -144,999,284.66
+Potential High Price : 270,824,970.16
+Potential Profit     : -144,175,029.84  (-34.74%)
 
 
 
 Analysis for runiteBootsMould
 =============================
-Data count: 5608
-Weighted Average Price: 266,133,720.22
-Weighted Stdev: 24,255,235.40
+Data count: 5712
+Weighted Average Price: 265,864,909.62
+Weighted Stdev: 24,114,354.56
 
 Percentiles:
-5% : 234,407,699.03
-15% : 245,997,821.86
-50% : 261,931,362.44
-85% : 298,400,699.13
-95% : 313,450,031.51
+5% : 234,523,368.92
+15% : 246,298,563.57
+50% : 259,927,360.24
+85% : 298,010,820.05
+95% : 313,333,067.78
 
-Current Price        : 251,750,000.00
-Potential High Price : 261,931,362.44
-Potential Profit     : 10,181,362.44
+Current Price        : 251,000,000.00
+Potential High Price : 259,927,360.24
+Potential Profit     : 8,927,360.24  (3.56%)
 
 
 
 Analysis for runiteBodyMould
 ============================
-Data count: 5608
-Weighted Average Price: 393,584,633.20
-Weighted Stdev: 40,621,843.75
+Data count: 5712
+Weighted Average Price: 392,507,041.84
+Weighted Stdev: 41,020,792.00
 
 Percentiles:
-5% : 352,034,406.35
-15% : 353,037,151.68
-50% : 379,352,737.02
+5% : 350,818,261.68
+15% : 352,765,571.92
+50% : 379,297,793.82
 85% : 450,000,000.00
 95% : 450,000,000.00
 
 Current Price        : 334,400,000.00
-Potential High Price : 379,352,737.02
-Potential Profit     : 44,952,737.02
+Potential High Price : 379,297,793.82
+Potential Profit     : 44,897,793.82  (13.43%)
 
 
 
 Analysis for ironDagger
 =======================
-Data count: 5569
-Weighted Average Price: 3,649,264.42
-Weighted Stdev: 1,092,122.87
+Data count: 5673
+Weighted Average Price: 3,635,038.57
+Weighted Stdev: 1,087,106.10
 
 Percentiles:
-5% : 2,501,523.56
-15% : 2,664,932.77
-50% : 3,255,408.70
-85% : 4,830,833.96
-95% : 5,817,635.64
+5% : 2,503,737.78
+15% : 2,668,475.52
+50% : 3,239,327.79
+85% : 4,814,861.78
+95% : 5,808,263.92
 
-Current Price        : 3,000,000.00
-Potential High Price : 3,255,408.70
-Potential Profit     : 255,408.70
+Current Price        : 2,750,000.00
+Potential High Price : 3,239,327.79
+Potential Profit     : 489,327.79  (17.79%)
 
 
 
 Analysis for promethiumBodyMould
 ================================
-Data count: 5437
-Weighted Average Price: 112,838,807.09
-Weighted Stdev: 18,981,144.09
+Data count: 5541
+Weighted Average Price: 112,316,295.64
+Weighted Stdev: 19,177,973.77
 
 Percentiles:
-5% : 95,000,000.00
-15% : 98,352,062.47
-50% : 103,211,429.73
-85% : 142,036,995.70
+5% : 93,915,362.56
+15% : 98,059,095.80
+50% : 103,055,478.10
+85% : 141,573,777.76
 95% : 150,000,000.00
 
 Current Price        : 85,000,000.00
-Potential High Price : 103,211,429.73
-Potential Profit     : 18,211,429.73
+Potential High Price : 103,055,478.10
+Potential Profit     : 18,055,478.10  (21.24%)
 
 
 
@@ -2221,7 +2221,7 @@ Percentiles:
 
 Current Price        : 220,000,000.00
 Potential High Price : 230,000,000.00
-Potential Profit     : 10,000,000.00
+Potential Profit     : 10,000,000.00  (4.55%)
 
 
 
@@ -2240,51 +2240,51 @@ Percentiles:
 
 Current Price        : 80,000,000.00
 Potential High Price : 84,146,879.12
-Potential Profit     : 4,146,879.12
+Potential Profit     : 4,146,879.12  (5.18%)
 
 
 
 Analysis for boneAmulet
 =======================
-Data count: 4906
-Weighted Average Price: 31,384,782.50
-Weighted Stdev: 1,510,189.40
+Data count: 5495
+Weighted Average Price: 31,476,897.69
+Weighted Stdev: 1,512,643.08
 
 Percentiles:
 5% : 30,000,000.00
 15% : 30,000,000.00
-50% : 30,813,805.55
-85% : 33,428,793.46
-95% : 34,174,845.32
+50% : 31,051,229.67
+85% : 33,492,740.76
+95% : 34,191,593.43
 
-Current Price        : 34,500,000.00
-Potential High Price : 30,813,805.55
-Potential Profit     : -3,686,194.45
+Current Price        : 30,000,000.00
+Potential High Price : 31,051,229.67
+Potential Profit     : 1,051,229.67  (3.50%)
 
 
 
 Analysis for ashes
 ==================
-Data count: 4958
-Weighted Average Price: 109,445.94
-Weighted Stdev: 7,844.83
+Data count: 5062
+Weighted Average Price: 108,974.51
+Weighted Stdev: 8,503.75
 
 Percentiles:
-5% : 100,289.34
-15% : 100,900.00
-50% : 108,141.36
-85% : 119,423.96
-95% : 119,809.14
+5% : 100,163.71
+15% : 100,829.26
+50% : 107,658.42
+85% : 119,411.24
+95% : 119,804.52
 
-Current Price        : 101,150.00
-Potential High Price : 108,141.36
-Potential Profit     : 6,991.36
+Current Price        : 72,249.00
+Potential High Price : 107,658.42
+Potential Profit     : 35,409.42  (49.01%)
 
 
 
 Analysis for iceBones
 =====================
-Data count: 4955
+Data count: 5059
 Weighted Average Price: 400,000.00
 Weighted Stdev: 0.00
 
@@ -2297,262 +2297,262 @@ Percentiles:
 
 Current Price        : 400,000.00
 Potential High Price : 400,000.00
-Potential Profit     : 0.00
+Potential Profit     : 0.00  (0.00%)
 
 
 
 Analysis for greenBrewingKitOrb
 ===============================
-Data count: 4957
-Weighted Average Price: 78,351,937.79
-Weighted Stdev: 38,101,781.23
+Data count: 5061
+Weighted Average Price: 79,215,351.78
+Weighted Stdev: 38,184,667.25
 
 Percentiles:
 5% : 34,000,000.00
-15% : 40,190,026.22
-50% : 68,363,064.68
+15% : 40,205,621.38
+50% : 69,439,951.35
 85% : 130,000,000.00
-95% : 130,166,629.58
+95% : 130,000,000.00
 
-Current Price        : 130,000,000.00
-Potential High Price : 68,363,064.68
-Potential Profit     : -61,636,935.32
+Current Price        : 111,000,000.00
+Potential High Price : 69,439,951.35
+Potential Profit     : -41,560,048.65  (-37.44%)
 
 
 
 Analysis for cannon
 ===================
-Data count: 4009
-Weighted Average Price: 566,509,013.43
-Weighted Stdev: 56,997,131.36
+Data count: 4113
+Weighted Average Price: 565,206,282.48
+Weighted Stdev: 56,850,227.14
 
 Percentiles:
-5% : 514,989,018.00
-15% : 516,249,008.68
-50% : 539,394,722.48
-85% : 665,617,470.81
-95% : 675,583,367.48
+5% : 514,988,698.50
+15% : 514,989,018.00
+50% : 538,938,571.31
+85% : 663,327,207.02
+95% : 675,572,837.38
 
-Current Price        : 514,987,987.00
-Potential High Price : 539,394,722.48
-Potential Profit     : 24,406,735.48
+Current Price        : 514,989,018.00
+Potential High Price : 538,938,571.31
+Potential Profit     : 23,949,553.31  (4.65%)
 
 
 
 Analysis for runiteLegsMould
 ============================
-Data count: 2610
-Weighted Average Price: 412,548,280.50
-Weighted Stdev: 46,618,570.87
+Data count: 2714
+Weighted Average Price: 410,726,238.72
+Weighted Stdev: 46,618,946.13
 
 Percentiles:
 5% : 364,999,998.00
 15% : 364,999,998.00
-50% : 401,967,618.55
-85% : 474,274,910.00
-95% : 494,934,136.12
+50% : 397,851,604.15
+85% : 473,008,444.03
+95% : 494,538,365.51
 
 Current Price        : 364,999,998.00
-Potential High Price : 401,967,618.55
-Potential Profit     : 36,967,620.55
+Potential High Price : 397,851,604.15
+Potential Profit     : 32,851,606.15  (9.00%)
 
 
 
 Analysis for rawWhale
 =====================
-Data count: 1048
-Weighted Average Price: 6,600,163.96
-Weighted Stdev: 319,939.82
+Data count: 1152
+Weighted Average Price: 6,636,260.27
+Weighted Stdev: 325,960.40
 
 Percentiles:
-5% : 6,085,579.68
-15% : 6,282,814.46
-50% : 6,576,433.32
-85% : 6,943,791.48
-95% : 7,210,846.52
+5% : 6,096,426.06
+15% : 6,294,533.91
+50% : 6,618,204.12
+85% : 7,000,000.00
+95% : 7,194,342.10
 
 Current Price        : 7,000,000.00
-Potential High Price : 6,576,433.32
-Potential Profit     : -423,566.68
+Potential High Price : 6,618,204.12
+Potential Profit     : -381,795.88  (-5.45%)
 
 
 
 Analysis for donorCoins
 =======================
-Data count: 1048
-Weighted Average Price: 9,229,110.60
-Weighted Stdev: 978,645.72
+Data count: 1152
+Weighted Average Price: 9,209,675.15
+Weighted Stdev: 951,536.71
 
 Percentiles:
 5% : 8,000,000.00
 15% : 8,000,000.00
-50% : 9,037,216.58
-85% : 10,435,522.84
-95% : 10,705,421.79
+50% : 9,031,474.05
+85% : 10,397,118.40
+95% : 10,692,648.37
 
-Current Price        : 8,000,000.00
-Potential High Price : 9,037,216.58
-Potential Profit     : 1,037,216.58
+Current Price        : 9,999,999.00
+Potential High Price : 9,031,474.05
+Potential Profit     : -968,524.95  (-9.69%)
 
 
 
 Analysis for whale
 ==================
-Data count: 854
-Weighted Average Price: 13,397,173.46
-Weighted Stdev: 296,123.70
+Data count: 1152
+Weighted Average Price: 13,683,245.97
+Weighted Stdev: 566,751.77
 
 Percentiles:
-5% : 12,685,377.16
-15% : 13,071,579.57
+5% : 12,752,318.91
+15% : 13,267,255.45
 50% : 13,500,000.00
-85% : 13,500,000.00
-95% : 13,787,341.36
+85% : 14,423,995.18
+95% : 14,810,975.83
 
-Current Price        : 13,999,999.00
+Current Price        : 15,000,000.00
 Potential High Price : 13,500,000.00
-Potential Profit     : -499,999.00
+Potential Profit     : -1,500,000.00  (-10.00%)
 
 
 
 Profit Analysis
 ===============
-snakeSkin                     :112.56% (2,249.00)
-cannonStand                   :107.17% (139,317,923.69)
-emptyOrbSpellScroll           :101.23% (7,212,616.24)
-greenOilStorageOrb            :82.74% (49,230,836.72)
-strangePurpleLeaf             :78.57% (1,100,000.00)
+cannonStand                   :114.09% (142,613,641.88)
+emptyOrbSpellScroll           :100.70% (7,175,162.76)
+snakeSkin                     :81.16% (1,865.80)
+greenOilStorageOrb            :80.61% (47,965,748.00)
 stripedCrystalLeafSeeds       :77.03% (2,079,792.03)
-quartz                        :73.18% (24.88)
-snapegrass                    :69.49% (8,860.26)
+quartz                        :68.09% (23.83)
+ghostScanSpellScroll          :67.82% (576,447.10)
+batSkin                       :61.99% (1,548.39)
+strangePurpleLeaf             :61.29% (950,000.00)
 promethiumBootsMould          :60.07% (33,039,897.61)
-ghostScanSpellScroll          :59.57% (536,129.96)
-marsRock                      :58.75% (78,133.12)
-oakTreeSeeds                  :55.69% (118,331.98)
-blueChiselOrb                 :55.56% (9,999,999.98)
-strangePinkLeaf               :49.91% (74,861.38)
-mapleTreeSeeds                :47.29% (64,078.37)
-emptyChisel                   :46.87% (257,788.15)
-veryHighWindSpellScroll       :45.47% (147,785.55)
-greenBowOrb                   :41.44% (10,567,676.59)
-blueOilPipeOrb                :39.19% (6,466,707.15)
-skeletonSword                 :39.09% (1,759,051.02)
-silverBar                     :36.38% (70.95)
-runite                        :34.72% (1,562,347.55)
-ghostAmulet                   :30.66% (28,786,372.03)
-redMushroomSeeds              :28.89% (5,488.19)
-batSkin                       :24.38% (796.52)
+strangePinkLeaf               :59.45% (83,228.77)
+blueOilPipeOrb                :52.52% (7,878,574.31)
+runite                        :50.00% (1,999,900.00)
+ashes                         :49.01% (35,409.42)
+emptyChisel                   :44.83% (246,579.13)
+veryHighWindSpellScroll       :44.24% (143,791.39)
+snapegrass                    :43.07% (6,459.47)
+marsRock                      :40.22% (60,337.04)
+skeletonSword                 :38.75% (1,743,641.43)
+silverBar                     :35.42% (69.06)
+ghostAmulet                   :30.47% (28,605,866.91)
+bronzeBar                     :28.01% (18.77)
+redMushroomSeeds              :26.02% (4,941.48)
 arrows                        :24.24% (15,245.27)
-sardine                       :23.75% (42,744.96)
-bronzeBar                     :21.48% (15.25)
-promethiumBodyMould           :21.43% (18,211,429.73)
+oakTreeSeeds                  :23.81% (63,094.07)
+promethiumBodyMould           :21.24% (18,055,478.10)
 crystalLeafSeeds              :20.00% (150,000.00)
-treeSeeds                     :18.95% (28,418.05)
-glass                         :18.53% (130.62)
-greenLeafSeeds                :18.06% (35,029.78)
-goldBar                       :17.91% (25.07)
-shrimp                        :13.55% (3,225.36)
-runiteBodyMould               :13.44% (44,952,737.02)
-strangeLeafTreeSeeds          :12.98% (648,904.64)
-donorCoins                    :12.97% (1,037,216.58)
-strangeGreenLeaf              :12.01% (780.80)
-promethiumBar                 :11.62% (28,461.22)
-blueAxeOrb                    :11.59% (2,666,031.81)
-willowLogs                    :11.27% (1,178.16)
-runiteLegsMould               :10.13% (36,967,620.55)
-cannonBarrel                  :9.26% (9,680,099.58)
-rawShrimp                     :9.16% (1,557.48)
-ironBar                       :8.93% (14.37)
-limeLeaf                      :8.86% (3,745.58)
-ironDagger                    :8.51% (255,408.70)
-blueTrowelOrb                 :7.56% (869,881.07)
-shark                         :7.39% (442,395.57)
-stardustTreeSeeds             :7.14% (200,000.00)
-ashes                         :6.91% (6,991.36)
-stripedCrystalLeaf            :6.25% (108,782.08)
+stardustTreeSeeds             :20.00% (500,000.00)
+treeSeeds                     :19.33% (28,802.46)
+glass                         :17.97% (126.68)
+ironDagger                    :17.79% (489,327.79)
+limeLeafSeeds                 :16.97% (18,500.00)
+greenLeafSeeds                :16.83% (32,647.30)
+skeletonShield                :15.58% (233,688.45)
+cannonBarrel                  :15.01% (14,856,557.92)
+limeLeaf                      :14.80% (5,921.72)
+runiteBodyMould               :13.43% (44,897,793.82)
+promethium                    :12.70% (24,137.58)
+shrimp                        :11.90% (2,832.31)
+swordfish                     :11.73% (281,427.59)
+strangeLeafTreeSeeds          :11.60% (580,122.26)
+strangeGreenLeaf              :11.40% (740.99)
+moonstone                     :11.23% (3,929.41)
+willowLogs                    :10.97% (1,146.15)
+blueAxeOrb                    :9.85% (2,265,146.05)
+promethiumBar                 :9.22% (23,001.33)
+runiteLegsMould               :9.00% (32,851,606.15)
+ironBar                       :8.42% (13.56)
+rawSardine                    :8.24% (1,603.52)
+goldBar                       :7.65% (11.40)
+goldLeafSeeds                 :7.35% (80,873.24)
+shark                         :7.18% (429,793.81)
+mapleLogs                     :6.65% (1,396.92)
+greenOilFactoryOrb            :6.65% (6,163,605.46)
+blueTrowelOrb                 :6.47% (743,569.55)
+strangeBlueLeaf               :6.42% (35,290.82)
+stripedCrystalLeaf            :6.20% (107,838.83)
 promethiumLegsMould           :5.18% (4,146,879.12)
-greenEmpoweredRockOrb         :5.05% (3,632,602.49)
-cannon                        :4.74% (24,406,735.48)
-swordfish                     :4.58% (119,116.19)
+greenEmpoweredRockOrb         :4.98% (3,585,265.13)
+cannon                        :4.65% (23,949,553.31)
+greenLeaf                     :4.58% (3,432.54)
 runiteGlovesMould             :4.55% (10,000,000.00)
-mapleLogs                     :4.42% (949.73)
-marble                        :4.39% (5.71)
-wheat                         :4.11% (10.68)
-runiteBootsMould              :4.04% (10,181,362.44)
-promethium                    :2.51% (5,264.61)
-skeletonShield                :2.38% (40,468.18)
-greenRocketOrb                :1.32% (793,874.58)
-goldLeaf                      :1.25% (6,247.04)
-stardustLogs                  :0.87% (860.33)
-bones                         :0.52% (327.53)
-diamond                       :0.40% (78,061.96)
-limeLeafSeeds                 :0.28% (361.98)
-bearFur                       :0.00% (1.71)
+runiteBootsMould              :3.56% (8,927,360.24)
+boneAmulet                    :3.50% (1,051,229.67)
+goldLeaf                      :3.23% (15,835.51)
+greenBowOrb                   :2.51% (877,950.42)
+bearFur                       :2.17% (996.91)
+rawShark                      :1.92% (67,273.87)
+wheat                         :1.89% (5.00)
+greenCombatOrb                :1.76% (1,407,151.92)
+greenRocketOrb                :0.97% (580,013.85)
+stardustLogs                  :0.82% (812.03)
+bow                           :0.58% (426,611.71)
+diamond                       :0.38% (72,461.60)
 stone                         :0.00% (0.00)
 iceArrows                     :0.00% (0.00)
 stardust                      :0.00% (0.00)
 iceBones                      :0.00% (0.00)
-dottedGreenLeafSeeds          :-0.47% (-519.99)
-ruby                          :-0.58% (-52,581.96)
-strangeBlueLeaf               :-0.64% (-3,760.69)
-rawShark                      :-0.84% (-30,306.00)
-greenOilFactoryOrb            :-1.06% (-1,060,863.99)
-goldLeafSeeds                 :-1.36% (-16,262.16)
-greenBonemealBinOrb           :-2.47% (-2,120,231.67)
-stinger                       :-2.85% (-998.02)
-blueRakeOrb                   :-2.88% (-575,280.93)
-sapphire                      :-3.18% (-6,039.31)
-dottedGreenLeaf               :-3.30% (-1,319.96)
-emerald                       :-3.45% (-93,189.94)
-tuna                          :-3.57% (-11,777.45)
-whale                         :-3.57% (-499,999.00)
-blewitMushroomSeeds           :-3.83% (-2,869.77)
-moonstone                     :-3.90% (-1,582.07)
-rawSardine                    :-4.05% (-891.21)
-greenCombatOrb                :-4.62% (-3,926,479.98)
-rawWhale                      :-6.05% (-423,566.68)
-fishingBait                   :-6.49% (-5,900.00)
-blueShovelOrb                 :-7.99% (-4,891,035.97)
-ancientTreeSeeds              :-9.56% (-1,807,127.12)
-boneAmulet                    :-10.68% (-3,686,194.45)
-snapegrassSeeds               :-12.21% (-8,246.52)
+dottedGreenLeafSeeds          :-0.14% (-151.81)
+ruby                          :-0.54% (-48,780.64)
+greenBonemealBinOrb           :-0.93% (-797,619.78)
+blueRakeOrb                   :-0.93% (-186,184.69)
+bones                         :-1.63% (-1,042.06)
+redMushroom                   :-2.06% (-33.01)
+sapphire                      :-2.76% (-5,248.16)
+tuna                          :-3.05% (-10,051.23)
+emerald                       :-3.21% (-86,748.29)
+dottedGreenLeaf               :-3.23% (-1,293.69)
+fishingBait                   :-4.49% (-4,000.00)
+ancientTreeSeeds              :-4.96% (-992,690.52)
+rawWhale                      :-5.45% (-381,795.88)
+blueShovelOrb                 :-6.89% (-4,214,789.99)
+donorCoins                    :-9.69% (-968,524.95)
+whale                         :-10.00% (-1,500,000.00)
+crystalLeaf                   :-10.01% (-82,105.26)
+rawShrimp                     :-11.54% (-2,424.11)
 cannonWheels                  :-12.90% (-20,000,000.00)
-crystalLeaf                   :-14.03% (-119,973.82)
-enchantStargemPotionSpellScroll:-15.01% (-375,355.41)
-strangeLogs                   :-16.93% (-28,615.12)
-redMushroom                   :-17.53% (-333.07)
-greenLeaf                     :-17.65% (-16,765.34)
+enchantStargemPotionSpellScroll:-14.26% (-356,500.59)
+stinger                       :-14.29% (-5,695.27)
+strangeLogs                   :-16.85% (-28,482.12)
+blewitMushroom                :-17.53% (-1,534.07)
+rawSwordfish                  :-18.66% (-149,244.24)
 moonBones                     :-19.58% (-96,915.75)
-logs                          :-21.24% (-805.12)
-promethiumGlovesMould         :-23.71% (-19,918,084.11)
-rawSwordfish                  :-24.09% (-204,758.35)
-bow                           :-25.63% (-25,629,478.68)
+logs                          :-20.96% (-794.25)
+promethiumGlovesMould         :-23.50% (-19,743,447.64)
+oakLogs                       :-25.00% (-2,112.64)
+strangeYellowLeaf             :-26.56% (-7,082.58)
 promethiumHelmetMould         :-26.73% (-21,117,141.96)
-strangeYellowLeaf             :-27.22% (-7,259.60)
-oakLogs                       :-27.70% (-2,354.26)
-bluePickaxeOrb                :-31.97% (-15,980,000.00)
-scythe                        :-34.94% (-144,999,284.66)
-blueMeditationOrb             :-46.15% (-27,691,020.12)
-greenBrewingKitOrb            :-47.41% (-61,636,935.32)
-ancientLogs                   :-55.92% (-422,542.85)
-sand                          :-59.84% (-1,256.57)
-runiteBar                     :-62.57% (-12,514,320.29)
-blewitMushroom                :-67.52% (-14,963.29)
-willowTreeSeeds               :-77.10% (-339,225.57)
+bluePickaxeOrb                :-27.14% (-12,666,669.00)
+ancientLogs                   :-27.87% (-129,310.14)
+marble                        :-31.29% (-61.95)
+scythe                        :-34.74% (-144,175,029.84)
+greenBrewingKitOrb            :-37.44% (-41,560,048.65)
+blueMeditationOrb             :-45.93% (-27,557,275.52)
+sardine                       :-47.19% (-200,569.91)
+snapegrassSeeds               :-49.48% (-58,883.65)
+sand                          :-57.23% (-1,143.98)
+runiteBar                     :-62.50% (-12,500,000.00)
+willowTreeSeeds               :-76.97% (-338,658.04)
+blewitMushroomSeeds           :-80.87% (-307,316.72)
+rawTuna                       :-82.64% (-247,954.93)
 fireArrows                    :-84.34% (-843,386.86)
-thread                        :-86.17% (-7,471.37)
-blueFishingRodOrb             :-86.78% (-111,084,030.19)
-rawTuna                       :-89.69% (-448,472.21)
-blueHammerOrb                 :-90.19% (-229,219,151.78)
+thread                        :-86.17% (-7,471.25)
+blueFishingRodOrb             :-86.76% (-111,051,176.28)
+blueHammerOrb                 :-89.98% (-228,681,594.28)
+blueChiselOrb                 :-92.97% (-371,875,560.01)
+mapleTreeSeeds                :-95.82% (-4,790,976.44)
 
 
 Wood Analysis
 =============
 logs: 3,790.00 (3,790.00 coins per energy)
-oakLogs: 8,500.00 (4,250.00 coins per energy)
+oakLogs: 8,450.00 (4,225.00 coins per energy)
 willowLogs: 10,450.00 (2,090.00 coins per energy)
-mapleLogs: 21,498.00 (2,149.80 coins per energy)
-stardustLogs: 98,999.00 (4,949.95 coins per energy)
+mapleLogs: 21,000.00 (2,100.00 coins per energy)
+stardustLogs: 99,000.00 (4,950.00 coins per energy)
 strangeLogs: 169,000.00 (5,633.33 coins per energy)
-ancientLogs: 755,554.00 (15,111.08 coins per energy)
+ancientLogs: 464,004.00 (9,280.08 coins per energy)
 

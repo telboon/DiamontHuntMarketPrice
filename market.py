@@ -114,14 +114,15 @@ for item in marketPrice:
     allPrint(latestFileHandler,"85% : "+"{:,.2f}".format(stats.quantile(0.85,False)[0]))
     allPrint(latestFileHandler,"95% : "+"{:,.2f}".format(stats.quantile(0.95,False)[0]))
     allPrint(latestFileHandler,)
-    allPrint(latestFileHandler,"Current Price        : "+"{:,.2f}".format(prices[-1]))
-    allPrint(latestFileHandler,"Potential High Price : "+"{:,.2f}".format(stats.quantile(tresholdPercentile,False)[0]))
-    allPrint(latestFileHandler,"Potential Profit     : "+"{:,.2f}".format(stats.quantile(tresholdPercentile,False)[0]-round(prices[-1],2)))
-    allPrint(latestFileHandler,"\n\n")
     profits[item]=round(stats.quantile(tresholdPercentile,False)[0],2)-round(prices[-1],2)
     profitsPercent[item]=(round(stats.quantile(tresholdPercentile,False)[0],2)-round(prices[-1],2))/prices[-1]
+    allPrint(latestFileHandler,"Current Price        : "+"{:,.2f}".format(prices[-1]))
+    allPrint(latestFileHandler,"Potential High Price : "+"{:,.2f}".format(stats.quantile(tresholdPercentile,False)[0]))
+    allPrint(latestFileHandler,"Potential Profit     : "+"{:,.2f}".format(profits[item])+"  ("+"{:,.2f}".format(profitsPercent[item]*100)+"%)")
+    allPrint(latestFileHandler,"\n\n")
 
-allPrint(latestFileHandler,"Profit Analysis")
+
+allPrint(latestFileHandler,"Profit Analysis") 
 allPrint(latestFileHandler,"===============")
 
 profitsPercent=OrderedDict(sorted(profitsPercent.items(), key=itemgetter(1), reverse=True))

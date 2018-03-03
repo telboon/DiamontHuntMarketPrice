@@ -18,29 +18,42 @@ from dateutil.tz import tzlocal
 
 #################   Config   ###################
 
+latestFile="latest.txt"
+
 tresholdPercentile=0.5
 stepper=1000*60   #minute stepper
+woodList=["logs", "oakLogs", "willowLogs", "mapleLogs", "stardustLogs", "strangeLogs", "ancientLogs"]
+energyList=[1,2,5,10,20,30,50]
 
-#################   Config   ###################
+################   Functions   ##################
 
+def allPrint(f, stuff=""):
+    print(stuff)
+    f.write(stuff+"\n")
+
+
+##############   Start Analysis   ################
 
 #open config file to find out address
 with open("config.json") as urlfile:
     configbefore=urlfile.read()
     configafter=json.loads(configbefore)
 
+#logs latest run
+latestFileHandler=open(latestFile, "w")
+
 r = requests.get(configafter['url'])
 marketPrice = json.loads(r.text, object_pairs_hook=OrderedDict)
 
 
-print("Market Prices retrieved from myjson.com with "+str(len(marketPrice))+" items")
+allPrint(latestFileHandler,"Market Prices retrieved from myjson.com with "+str(len(marketPrice))+" items")
 lastestTimestamp = float(list(marketPrice["logs"].keys())[-1])/1000.0
 latestDatetime = datetime.datetime.fromtimestamp(lastestTimestamp, tzlocal())
-print("Latest Price: "+str(latestDatetime.strftime("%I:%M %p %z   %d-%b-%Y")))
+allPrint(latestFileHandler,"Latest Price: "+str(latestDatetime.strftime("%I:%M %p %z   %d-%b-%Y")))
 sys.stdout.write("Press any key to continue...")
 input()
-print()
-print()
+allPrint(latestFileHandler,)
+allPrint(latestFileHandler,)
 
 profits=OrderedDict()
 profitsPercent=OrderedDict()
@@ -86,32 +99,49 @@ for item in marketPrice:
     weights.append(1)  #last is last minues before * 0.5
 
     #start analysis
-    print("Analysis for "+item)
-    print("============="+"="*len(item))
-    print("Data count: "+str(len(times)))
+    allPrint(latestFileHandler,"Analysis for "+item)
+    allPrint(latestFileHandler,"============="+"="*len(item))
+    allPrint(latestFileHandler,"Data count: "+str(len(times)))
 
     stats=DescrStatsW(prices, weights)
-    print("Weighted Average Price: "+"{:,.2f}".format(stats.mean))
-    print("Weighted Stdev: "+"{:,.2f}".format(stats.std))
-    print()
-    print("Percentiles:")
-    print("5% : "+"{:,.2f}".format(stats.quantile(0.05,False)[0]))
-    print("15% : "+"{:,.2f}".format(stats.quantile(0.15,False)[0]))
-    print("50% : "+"{:,.2f}".format(stats.quantile(0.50,False)[0]))
-    print("85% : "+"{:,.2f}".format(stats.quantile(0.85,False)[0]))
-    print("95% : "+"{:,.2f}".format(stats.quantile(0.95,False)[0]))
-    print()
-    print("Current Price        : "+"{:,.2f}".format(prices[-1]))
-    print("Potential High Price : "+"{:,.2f}".format(stats.quantile(tresholdPercentile,False)[0]))
-    print("Potential Profit     : "+"{:,.2f}".format(stats.quantile(tresholdPercentile,False)[0]-round(prices[-1],2)))
-    print("\n\n")
+    allPrint(latestFileHandler,"Weighted Average Price: "+"{:,.2f}".format(stats.mean))
+    allPrint(latestFileHandler,"Weighted Stdev: "+"{:,.2f}".format(stats.std))
+    allPrint(latestFileHandler,)
+    allPrint(latestFileHandler,"Percentiles:")
+    allPrint(latestFileHandler,"5% : "+"{:,.2f}".format(stats.quantile(0.05,False)[0]))
+    allPrint(latestFileHandler,"15% : "+"{:,.2f}".format(stats.quantile(0.15,False)[0]))
+    allPrint(latestFileHandler,"50% : "+"{:,.2f}".format(stats.quantile(0.50,False)[0]))
+    allPrint(latestFileHandler,"85% : "+"{:,.2f}".format(stats.quantile(0.85,False)[0]))
+    allPrint(latestFileHandler,"95% : "+"{:,.2f}".format(stats.quantile(0.95,False)[0]))
+    allPrint(latestFileHandler,)
+    allPrint(latestFileHandler,"Current Price        : "+"{:,.2f}".format(prices[-1]))
+    allPrint(latestFileHandler,"Potential High Price : "+"{:,.2f}".format(stats.quantile(tresholdPercentile,False)[0]))
+    allPrint(latestFileHandler,"Potential Profit     : "+"{:,.2f}".format(stats.quantile(tresholdPercentile,False)[0]-round(prices[-1],2)))
+    allPrint(latestFileHandler,"\n\n")
     profits[item]=round(stats.quantile(tresholdPercentile,False)[0],2)-round(prices[-1],2)
     profitsPercent[item]=(round(stats.quantile(tresholdPercentile,False)[0],2)-round(prices[-1],2))/prices[-1]
 
-print("FINAL ANALYSIS")
-print("==============")
+allPrint(latestFileHandler,"Profit Analysis")
+allPrint(latestFileHandler,"===============")
 
 profitsPercent=OrderedDict(sorted(profitsPercent.items(), key=itemgetter(1), reverse=True))
 for item in profitsPercent:
-    print(item+" "*(30-len(item))+":"+"{:.2f}".format(profitsPercent[item]*100)+"% ("+"{:,.2f}".format(profits[item])+")")
+    allPrint(latestFileHandler,item+" "*(30-len(item))+":"+"{:.2f}".format(profitsPercent[item]*100)+"% ("+"{:,.2f}".format(profits[item])+")")
 
+allPrint(latestFileHandler,"\n")
+
+allPrint(latestFileHandler,"Wood Analysis")
+allPrint(latestFileHandler,"=============")
+
+for i in range(len(woodList)):
+    output=woodList[i]
+    output=output+": "
+    woodPrice=list(marketPrice[woodList[i]].values())[-1]
+    output=output+"{:,.2f}".format(woodPrice)+" ("
+    output=output+"{:,.2f}".format(woodPrice / energyList[i])+" coins per energy)"
+    allPrint(latestFileHandler,output)
+
+allPrint(latestFileHandler,)
+
+################ Cleaning Up ################
+latestFileHandler.close()
